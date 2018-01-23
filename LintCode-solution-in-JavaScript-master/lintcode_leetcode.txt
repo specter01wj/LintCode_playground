@@ -1,0 +1,260 @@
+lintcode \ leetcode
+
+   undo/done
+1 - strStr & Coding Style
+    13. strStr
+        18. Subsets II /90 Subsets II
+        17. Subsets / 78. Subsets
+    594. strStr II
+        16. Permutations II / 47. Permutations II
+        15. Permutations / 46 Permutations
+
+
+2 - Binary Search
+        459. Closest Number in Sorted Array
+        458. Last Position of Target
+        028. Search a 2D Matrix  / 74. Search a 2D Matrix
+        585. Maximum Number in Mountain Sequence
+        447. Search in a Big Sorted Array
+        159. Find Minimum in Rotated Sorted Array / 153. Find Minimum in Rotated Sorted Array
+        075. Find Peak Element  / 162. Find Peak Element
+        074. First Bad Version  / 278. First Bad Version
+        062. 8 Sorted Array
+
+        462. Total Occurrence of Target
+    254. Drop Eggs
+        014. First Position of Target
+        460. K Closest Numbers In Sorted Array / 658. Find K Closest Elements
+    414. Divide Two Integers
+        061. Search for a Range / 34. Search for a Range
+        038. Search a 2D Matrix II / 240. Search a 2D Matrix II (change count to return true/false)
+        600. Smallest Rectangle Enclosing Black Pixels
+        457. Classical Binary Search
+    141. Sqrt(x)
+    617. Maximum Average Subarray
+    586. Sqrt(x) II
+    160. Find Minimum in Rotated Sorted Array II
+    063. Search in Rotated Sorted Array II
+    437. Copy Books
+    183. Wood Cut
+
+
+3.Binary Tree & Divide Conquer
+        597. Subtree with Maximum Average
+        596. Minimum Subtree
+        480. Binary Tree Paths / 257. Binary Tree Paths
+        453. Flatten Binary Tree to Linked List / 114. Flatten Binary Tree to Linked List
+        97. Maximum Depth of Binary Tree / 104. Maximum Depth of Binary Tree
+        93. Balanced Binary Tree / 110. Balanced Binary Tree
+        67. Binary Tree Inorder Traversal / 94. Binary Tree Inorder Traversal
+        66. Binary Tree Preorder Traversal / 144. Binary Tree Preorder Traversal
+        578. Lowest Common Ancestor III
+        95. Validate Binary Search Tree / 98. Validate Binary Search Tree
+
+    595. Binary Tree Longest Consecutive Sequence
+        376. Binary Tree Path Sum / 113. Path Sum II
+    474. Lowest Common Ancestor II
+    246. Binary Tree Path Sum II
+        68. Binary Tree Postorder Traversal
+    619. Binary Tree Longest Consecutive Sequence III
+    614. Binary Tree Longest Consecutive Sequence II
+    4475. Binary Tree Maximum Path Sum II
+    448. Inorder Successor in Binary Search Tree
+        378. Convert Binary Search Tree to Doubly Linked List
+    472. Binary Tree Path Sum III
+
+    155. Minimum Depth of Binary Tree
+    88. Lowest Common Ancestor / 236. Lowest Common Ancestor of a Binary Tree
+
+
+4 - Breadth First Search
+        433. Number of Islands / 200. Number of Islands
+        69. Binary Tree Level Order Traversal /102. Binary Tree Level Order Traversal
+        616. Course Schedule II / 210. Course Schedule II
+        618. Search Graph Nodes
+        611. Knight Shortest Path
+        598. Zombie in Matrix
+        178. Graph Valid Tree / 261 Graph Valid Tree
+        137. Clone Graph / 133 Clone Graph
+    7. Binary Tree Serialization
+    573. Build Post Office II
+
+        242. Convert Binary Tree to Linked Lists by Depth
+        624. Remove Substrings
+    605. Sequence Reconstruction
+        531. Six Degrees
+        127. Topological Sorting
+        120. Word Ladder / 127. Word Ladder
+
+
+        615. Course Schedule / 207. Course Schedule
+    431. Connected Component in Undirected Graph
+    71. Binary Tree Zigzag Level Order Traversal
+    70. Binary Tree Level Order Traversal II
+    600. Smallest Rectangle Enclosing Black Pixels
+    574. Build Post Office
+    434. Number of Islands II
+
+
+5 - Depth First Search
+        136. Palindrome Partitioning / 131. Palindrome Partitioning
+        153. Combination Sum II / 40. Combination Sum II
+        135. Combination Sum / 39. Combination Sum
+        18. Subsets II / 90 Subsets II
+        16. Permutations II / 47. Permutations II
+        15. Permutations / 46 Permutations
+        121. Word Ladder II / 126. Word Ladder II
+        120. Word Ladder / 127. Word Ladder
+    52. Next Permutation
+    51. Previous Permutation
+    582. Word Break II
+
+
+6 - Linked List & Array
+        599. Insert into a Cyclic Sorted List
+        165. Merge Two Sorted Lists / 21. Merge Two Sorted Lists
+        138. Subarray Sum
+        41. Maximum Subarray / 53. Maximum Subarray
+    139. Subarray Sum Closest
+        105. Copy List with Random Pointer / 138. Copy List with Random Pointer
+        102. Linked List Cycle / 141. Linked List Cycle
+        98. Sort List /148. Sort List
+        450. Reverse Nodes in k-Group / 25 Reverse Nodes in k-Group
+        65. Median of two Sorted Arrays /4. Median of Two Sorted Arrays
+
+        548. Intersection of Two Arrays II / 350. Intersection of Two Arrays II
+        547. Intersection of Two Arrays / 349. Intersection of Two Arrays
+        96. Partition List / 86. Partition List
+        64. Merge Sorted Array  / 88. Merge Sorted Array
+        6. Merge Two Sorted Arrays
+        103. Linked List Cycle II / 142. Linked List Cycle II
+        35. Reverse Linked List / 206. Reverse Linked List
+        36. Reverse Linked List II / 92. Reverse Linked List II
+        511. Swap Two Nodes in Linked List /
+        167. Add Two Numbers / 2. Add Two Numbers
+        221. Add Two Numbers II / 445. Add Two Numbers II
+        170. Rotate List / 61. Rotate List
+        90. Reorder List / 143. Reorder List
+        380. Intersection of Two Linked Lists / 160. Intersection of Two Linked Lists
+
+
+7 - Two Pointers
+        607. Two Sum - Data structure design / 170. Two Sum - Data structure design
+        521. Remove Duplicate Numbers in Array
+        608. Two Sum - Input array is sorted / 167. Two Sum II - Input array is sorted
+        609. Two Sum - Less than or equal to target
+        587. Two Sum - Unique pairs
+        533. Two Sum - Closest to target
+        148. Sort Colors / 75. Sort Colors
+    143. Sort Colors II
+        57. 3Sum / 15. 3Sum
+        31. Partition Array
+        604. Window Sum
+        539. Move Zeroes / 283. Move Zeroes
+        415. Valid Palindrome / 125. Valid Palindrome
+        56. Two Sum / 1. Two Sum
+        625. Partition Array II
+        610. Two Sum - Difference equals to target
+        443. Two Sum - Greater than target
+    461. Kth Smallest Numbers in Unsorted Array
+        382. Triangle Count
+        59. 3Sum Closest /  16. 3Sum Closest
+        58. 4Sum / a18. 4Sum
+        39. Recover Rotated Sorted Array / 189. Rotate Array
+        8. Rotate String
+        373. Partition Array by Odd and Even
+        49. Sort Letters by Case
+    144. Interleaving Positive and Negative Numbers
+
+
+8 - Data Structure
+    128. Hash Function
+        613. High Five
+        612. K Closest Points
+        606. Kth Largest Element II / 215. Kth Largest Element in an Array
+        544. Top k Largest Numbers
+        129. Rehashing
+        104. Merge k Sorted Lists / 23. Merge k Sorted Lists
+        4. Ugly Number II / 264. Ugly Number II
+    594. strStr II
+        134. LRU Cache / 146. LRU Cache
+        601. Flatten 2D Vector / 251. Flatten 2D Vector
+        545. Top k Largest Numbers II
+        486. Merge k Sorted Arrays
+    471. Top K Frequent Words /  692. Top K Frequent Words
+        130. Heapify
+        124. Longest Consecutive Sequence / 128. Longest Consecutive Sequence
+
+
+9 - Dynamic Programming
+        115. Unique Paths II / 63. Unique Paths II
+        114. Unique Paths / 62. Unique Paths
+        111. Climbing Stairs / 70 Climbing Stairs
+        110. Minimum Path Sum / 64. Minimum Path Sum
+        109. Triangle / 120. Triangle
+        603. Largest Divisible Subset / 368. Largest Divisible Subset
+    611. Knight Shortest Path
+    513. Perfect Squares
+        116. Jump Game / 55. Jump Game
+        76. Longest Increasing Subsequence / 300. Longest Increasing Subsequence
+        397. Longest Increasing Continuous Subsequence / 674. Longest Continuous Increasing Subsequence
+
+        272. Climbing Stairs II
+    630. Knight Shortest Path II
+        117. Jump Game II / 45. Jump Game II
+        602. Russian Doll Envelopes / 354. Russian Doll Envelopes
+    622. Frog Jump
+
+
+1 - Follow up in Code Interview
+    401. Kth Smallest Number in Sorted Matrix
+        406. Minimum Size Subarray Sum
+    384. Longest Substring Without Repaeating Characters
+    386. Longest Substring with At Most K Distinct Characters
+    465. Kth Smallest Sum In Two Sorted Arrays
+
+    543. Kth Largest in N Arrays Easy
+609. Two Sum - Less than or equal to target Medium
+461. Kth Smallest Numbers in Unsorted Array Medium
+382. Triangle Count Medium
+        32. Minimum Window Substring Medium / 76. Minimum Window Substring
+5. Kth Largest Element
+
+2 - Data Structure I
+    433. Number of Islands
+    591. Connecting Graph III
+    590. Connecting Graph II
+    589. Connecting Graph
+    178. Graph Valid Tree
+    473. Add and Search Word
+    442. Implement Trie
+    432. Find the Weak Connected Component in the Directed Graph
+    431. Connected Component in Undirected Graph
+    123. Word Search
+    434. Number of Islands II
+    132. Word Search II
+
+3 - Data Structure II
+    575. Expression Expand
+        363. Trapping Rain Water / 42. Trapping Rain Water a
+    40. Implement Queue by Two Stacks
+    12. Min Stack
+    360. Sliding Window Median
+    364. Trapping Rain Water II
+    510. Maximal Rectangle
+    126. Max Tree
+    122. Largest Rectangle in Histogram
+    81. Data Stream Median
+    362. Sliding Window Maximum Super
+
+4 - Binary Search + Sweep Line
+    141. Sqrt(x) Easy
+    617. Maximum Average Subarray
+    586. Sqrt(x) II
+    391. Number of Airplanes in the Sky
+    414. Divide Two Integers
+    75. Find Peak Element
+    74. First Bad Version
+    437. Copy Books
+    390. Find Peak Element II
+    183. Wood Cut

@@ -1,0 +1,331 @@
+//https://github.com/awangdev/LintCode/blob/master/Java/
+/*
+//Format:
+"name" : {
+	"nickname": "",
+	"property" : [
+		"x",
+	],
+	"problems" : [
+		"x",
+	]
+}
+
+*/
+{
+	"int" : {
+		"nickname": "整数",
+		"property" : [
+			"Integer.parseInt(), INT_MAX, INT_MIN",
+		],
+		"problems" : [
+			"",
+		]
+	},
+	"String" : {
+		"nickname": "",
+		"property" : [
+			"toCharArry, charAt(), StringBuffer",
+		],
+		"problems" : [
+			"Multiply Strings",
+		]
+	},
+	"Recursive" : {
+		"nickname": "递归",
+		"property" : [
+			"找所有方案，搜索",
+		],
+		"problems" : [
+			"Generate Parentheses",
+			"Subsets",
+			"Permudation",
+			"NQueen"
+		]
+	},
+	"Iterative" : {
+		"nickname": "迭代",
+		"property" : [
+			"能递归，常常就能Iterative",
+			"Queue",
+			"Unique Permudation mark visited",
+		],
+		"problems" : [
+			"Subsets",
+			"Permudation",
+		]
+	},
+	"dp" : {
+		"nickname":"Dynamic Programming, DP, 动态规划",
+		"property" : [
+			"state,function,init,return",
+		],
+		"problems:" : [
+			"Backpack",
+			"BackPack II"
+
+		]
+	},
+	"union-find" : {
+		"nickname": "Disjoint Set, 并查集",
+		"property" : [],
+		"problems" : [
+			"Find the Weak Connected Component in the Directed Graph",
+			"Graph Valid Tree",
+
+		]
+	},
+	"Graph" : {
+		"nickname": "",
+		"property" : [
+			"x",
+		],
+		"problems" : [
+			"x",
+		]
+	},
+	"Binary tree" : {
+		"nickname": "二叉树",
+		"property" : [
+			"recursive, left, right",
+			"Binary Tree pre,in,post Traversal 都用到： DFS, Stack; divide && conquer（注意里面是return rst, 要懂得addAll）; recursive with helper"
+			"Preorder Traversal: 1. Divide and conquer; 2. 1 stack: streo curr.val; push right, push left; 3. recursive with helper",
+			"Postorder Traversal: 1. Divide left&&right, conquer (add left, right, curr) 2. Two Stack(巧妙的s1,s2关系)，最后output s2. 3. recursive with helper function",
+			"Inorder Traversal: 1. Divide and conquer; 2. 1 Stack: move all the way to left-down; add curr; move to right and push right; 3. Recursive with helper",
+			"Level Order Traversal: 1. Use queue, do bfs.  2. dfs: track with level number: each level add a new [] list in rst"
+		],
+		"problems" : [
+			"Binary Tree Paths",
+			"Binary Tree Preorder Traversal",
+			"Binary Tree Postorder Traversal",
+			"Binary Tree Inorder Traversal",
+			"Maximum Depth of Binary Tree",
+			"Convert Binary Search Tree to Doubly Linked List"
+
+
+		]
+	},
+	"Linked List" : {
+		"nickname": "",
+		"property" : [
+			"Singly linked list",
+			"slow/fast快慢指针"
+		],
+		"problems" : [
+			"Reverse LinkedList",
+			"Nth to last Node in List",
+			"Convert Sorted List to Binary Search Tree",
+			"Copy List with Random Pointer",
+			"Linked List Cycle"
+		]
+	},
+	"Binary Search" : {
+		"nickname": "",
+		"property" : [
+			"start + 1 < end",
+			"mid = start + (end - start)",
+			"不同的题目，match的condition可能会不太一样"
+		],
+		"problems" : [
+			"Search for a Range",
+			"Search Insert Position",
+			"Search in Rotated Sorted Array",
+			"Search a 2D Matrix",
+			"First Bad Version",
+			"Find Peak Element",
+			""
+		]
+	},
+	"Rotate" : {
+		"nickname": "翻转",
+		"property" : [
+			"中间截开一段，放在前面",
+			"常常需要分段翻转几回，做一个reverse function"
+		],
+		"problems" : [
+			"Reverse Words in a string",
+			"Rotated String",
+			"Recover Sorted Array"
+		]
+	},
+
+	"Trie" : {
+		"nickname": "Just a Tree",
+		"property" : [
+			"HashMap, store word, search word"
+		],
+		"problems" : [
+			"Implement Trie",
+			"Add and Search Word",
+			"Word Search II",
+
+		]
+	},
+	"Segment Tree" : {
+		"nickname": "线段树",
+		"property" : [
+			"Split by (start + end)/2. Make left,right child, then bind back to root",
+			"which of these intervals contain a given point",
+			"which of these points are in a given interval"
+		],
+		"problems" : [
+			"Segment Tree Query",
+			"Segment Tree Modify",
+			"Segment Tree Build",
+			"Interval Sum",
+			"Interval Minimum Number",
+			"Count of Smaller Number",
+			"Count of Smaller Number before itself",
+		]
+	},
+	"Expression Tree" : {
+		"nickname": "",
+		"property" : [
+			"Need to remember how to build the tree just like Max-tree using stack. 'while'  add stack.pop() to node.left; if stack !empty, stack.peek().right = node; add node into stack",
+		],
+		"problems" : [
+			"Expression Evaludation",
+		]
+	},
+	"Toposort" : {
+		"nickname": "Topological Sort",
+		"property" : [
+			"NO CYCLE: Only possible if the graph has no directed cycle.",
+			"Must have a Sink vertex, the most outgoing vertex, where it all ends",
+			"via DFS (around 11:40 mins:): https://class.coursera.org/algo-003/lecture/52",
+			"Mark node visited, global current-label to mark the sequence from n to 1"
+		],
+		"problems" : [
+			"Course Schedule",
+		]
+	},
+	"Merge Sort" : {
+		"nickname": "",
+		"property" : [
+			"Find Middle (快慢pointer), merge（给元素按大小顺序排列，return list），recursively call sort() itself",
+			"Both average and worst case is nlogn",
+			"Merge sort is preffered on list: http://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/",
+			"Merge sort array, it's slow than quick sort,  due to O(N) space usage"
+		],
+		"problems" : [
+			"Sort List",
+			"Remove Duplicates from Uncorted List"
+		]
+	},
+	"Quick Sort" : {
+		"nickname": "快排, 排序界第一大算法",
+		"property" : [
+			"Average time nlogn, however worst case is n^2",
+			"Quick sort is preferred on arrays: http://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/",
+			"Generally in-place sort array, without no extra space",
+			"Require random access to element, so it's not good for linked list, which could be worse O(n) time to access an element"
+		],
+		"problems" : [
+			"Partition Array",
+		]
+	},
+	"Insertion Sort" : {
+		"nickname": "",
+		"property" : [
+			"It's compared with Bubble sort, so I guess this is bad as well",
+		],
+		"problems" : [
+			"Insertion Sort List",
+		]
+	},
+	"Merge" : {
+		"nickname": "",
+		"property" : [
+			"",
+		],
+		"problems" : [
+			"Merge Sorted Array",
+			"Merge Sorted Array II",
+			"Merge k Sorted Arrays",
+			"Merge Intervals",
+			"Merge k sorted Lists",
+			"Merge Two Sorted Lists",
+		]
+	},
+	"Partition" : {
+		"nickname": "",
+		"property" : [
+			"如果是可以双向遍历，从两边开始遍历，找到满足条件可以swap的，swap",
+			"如果是list, 做个pre,post两个list, 把相应内容填充进去，然后把两个list链接起来不就好了"
+		],
+		"problems" : [
+			"Partition Array",
+			"Partition List",
+			"Partition Array by Odd and Even"
+		]
+	},
+	"Greedy Algorithm" : {
+		"nickname": "贪心",
+		"property" : [
+			"",
+		],
+		"problems" : [
+			"",
+		]
+	},
+	"Scan Line" : {
+		"nickname": "扫描线",
+		"property" : [
+			"把Interval分拆成Point{x,flag}.起点flag=1,终点flag=-1",
+			"用PriorityQueue可以sort这些点",
+			"维持一个count来判断同时又几个meeting在开，需要多少房间；一个人同时能参加所有meeting嘛，需要不重合",
+			"天上多少飞机同时在飞",
+			"根据count的情况merge interval, insert interval",
+			"在扫描时候，一定注意PriorityQueue里面在同一个point.x的很多点，可能同时发生，要全部处理完才能move on",
+		],
+		"problems" : [
+			"Meeting Rooms",
+			"Meeting Rooms II",
+			"Merge Intervals",
+			"Insert Interval",
+			"Planes in sky",
+		]
+	},
+	"Math" : {
+		"nickname": "数学",
+		"property" : [
+			"记得一些数学计算原理",
+			"Add 2 numbers: 用carrier = (sum / 10), rst = (sum % 10)",
+			"Binary: Integer part: bit = value %2; decimal part: bit = 1 if (num* 2 - 1) >= 0"
+		],
+		"problems" : [
+			"Add Two Numbers",
+			"Binary Representation"
+		]
+	},
+	"KMP" : {
+		"nickname": "String Seaching Algorithm",
+		"property" : [
+			"May or may not be testing this on strstr. Unlikely. https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm",
+		],
+		"problems" : [
+			"StrStr",
+		]
+	},
+	"System Design" : {
+		"nickname": "系统设计",
+		"property" : [
+			"读一些paper. 比如google的四篇文章",
+			"了解一些概念，去仔细理解一下: 什么CAP，SOA系统架构，Web常用的一些框架（什么NODE.JS等等），",
+			"对做网站等等的一些工具可以了解, 比如一个monitor系统: traffice, cpu, memory, harddrive, attack, serverice availability, 支付统计"
+			"dancres.github.io/Pages/ : 关于分布式系统",
+			"Google File System",
+			"Big Table",
+			"Map Reduce ： 虽然Google已经不用了",
+			"Chubby",
+			"DynamoDB - Amazon: ",
+			"Akamai: * Global Distributed Content [CDN]"
+		],
+		"problems" : [
+			"",
+		]
+	}
+		
+}
+
+
