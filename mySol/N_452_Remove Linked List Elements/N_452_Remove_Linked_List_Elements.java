@@ -20,7 +20,7 @@ While loop through. Maintain a parent, so it can be used to skip current node.
  *     ListNode(int x) { val = x; }
  * }
  */
-
+import java.util.*;
 
 public class N_452_Remove_Linked_List_Elements {
 

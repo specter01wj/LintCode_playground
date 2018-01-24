@@ -10,9 +10,9 @@ By Jin Wang
 | No. | Problem       | Level  | Language  | Completed|
 |:-------:|:--------------|:------:|:---------:|:-------------:|
 |366|**Fibonacci**|Naive|Java, Javascript|Done/Done|
-|452|**Remove Linked List Elements**|Naive|Java, Javascript||
-|454|**Rectangle Area**|Naive|Java, Javascript||
-|463|**Sort Integers**|Naive|Java, Javascript||
+|452|**Remove Linked List Elements**|Naive|Java, Javascript|Done|
+|454|**Rectangle Area**|Naive|Java, Javascript|Done|
+|463|**Sort Integers**|Naive|Java, Javascript|Done|
 |466|**Count Linked List Nodes**|Naive|Java, Javascript||
 |632|**Binary Tree Maximum Node**|Naive|Java, Javascript||
 
