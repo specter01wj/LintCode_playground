@@ -9,7 +9,7 @@ By Jin Wang
 
 | No. | Problem       | Level  | Language  | Completed|
 |:-------:|:--------------|:------:|:---------:|:-------------:|
-|366|**Fibonacci**|Naive|Java, Javascript||
+|366|**Fibonacci**|Naive|Java, Javascript|Done/Done|
 |452|**Remove Linked List Elements**|Naive|Java, Javascript||
 |454|**Rectangle Area**|Naive|Java, Javascript||
 |463|**Sort Integers**|Naive|Java, Javascript||
