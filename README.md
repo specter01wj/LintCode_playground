@@ -22,8 +22,8 @@ By Jin Wang
 | No. | Problem       | Level  | Language  | Completed|
 |:-------:|:--------------|:------:|:---------:|:-------------:|
 |1|**A + B Problem**|Easy|Java, Javascript|Done|
-|2|**Trailing Zeros**|Easy|Java, Javascript||
-|6|**Merge Two Sorted Arrays**|Easy|Java, Javascript||
+|2|**Trailing Zeros**|Easy|Java, Javascript|Done|
+|6|**Merge Two Sorted Arrays**|Easy|Java, Javascript|Done|
 |8|**Rotate String**|Easy|Java, Javascript||
 |9|**Fizz Buzz**|Easy|Java, Javascript||
 |13|**strStr**|Easy|Java, Javascript||

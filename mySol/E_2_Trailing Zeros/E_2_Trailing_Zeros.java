@@ -29,7 +29,7 @@ public class E_2_Trailing_Zeros {
 
     public static void main(String[] args) {
 
-        long input = 15;
+        long input = 26;
         long output = trailingZeros(input);
         System.out.println("input: " + input + "\noutput: " + output);
 
