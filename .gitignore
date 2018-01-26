@@ -10,6 +10,8 @@ bower_components
 nbproject
 npm-debug.log
 .DS_Store
+.classpath
+.project
 runtime
 symlinks
 # IntelliJ

@@ -13,15 +13,15 @@ By Jin Wang
 |452|**Remove Linked List Elements**|Naive|Java, Javascript|Done|
 |454|**Rectangle Area**|Naive|Java, Javascript|Done|
 |463|**Sort Integers**|Naive|Java, Javascript|Done|
-|466|**Count Linked List Nodes**|Naive|Java, Javascript||
-|632|**Binary Tree Maximum Node**|Naive|Java, Javascript||
+|466|**Count Linked List Nodes**|Naive|Java, Javascript|Done|
+|632|**Binary Tree Maximum Node**|Naive|Java, Javascript|Done|
 
 
 ### Easy Level
 
 | No. | Problem       | Level  | Language  | Completed|
 |:-------:|:--------------|:------:|:---------:|:-------------:|
-|1|**A + B Problem**|Easy|Java, Javascript||
+|1|**A + B Problem**|Easy|Java, Javascript|Done|
 |2|**Trailing Zeros**|Easy|Java, Javascript||
 |6|**Merge Two Sorted Arrays**|Easy|Java, Javascript||
 |8|**Rotate String**|Easy|Java, Javascript||
