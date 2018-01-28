@@ -26,7 +26,7 @@ public class E_8_Rotate_String {
     public static void main(String[] args) {
 
         char[] input = {'a','b','c','d','e','f','g'};
-        char[] output = rotateString(input, 1);
+        char[] output = rotateString(input, 3);
         System.out.println("input: " + Arrays.toString(input) + 
             "\noutput: " + Arrays.toString(output));
 
