@@ -25,7 +25,7 @@ By Jin Wang
 |2|**Trailing Zeros**|Easy|Java, Javascript|Done|
 |6|**Merge Two Sorted Arrays**|Easy|Java, Javascript|Done|
 |8|**Rotate String**|Easy|Java, Javascript|Done|
-|9|**Fizz Buzz**|Easy|Java, Javascript||
+|9|**Fizz Buzz**|Easy|Java, Javascript|Done|
 |13|**strStr**|Easy|Java, Javascript||
 |14|**First Position of Target**|Easy|Java, Javascript||
 |22|**Flatten List**|Easy|Java, Javascript||
