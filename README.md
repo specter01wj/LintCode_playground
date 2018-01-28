@@ -26,7 +26,7 @@ By Jin Wang
 |6|**Merge Two Sorted Arrays**|Easy|Java, Javascript|Done|
 |8|**Rotate String**|Easy|Java, Javascript|Done|
 |9|**Fizz Buzz**|Easy|Java, Javascript|Done|
-|13|**strStr**|Easy|Java, Javascript||
+|13|**strStr**|Easy|Java, Javascript|Done|
 |14|**First Position of Target**|Easy|Java, Javascript||
 |22|**Flatten List**|Easy|Java, Javascript||
 |28|**Search a 2D Matrix**|Easy|Java, Javascript||
