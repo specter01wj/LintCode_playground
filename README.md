@@ -30,12 +30,12 @@ By Jin Wang
 |14|**First Position of Target**|Easy|Java, Javascript|Done|
 |22|**Flatten List**|Easy|Java, Javascript|Done|
 |28|**Search a 2D Matrix**|Easy|Java, Javascript|Done|
-|30|**Insert Interval**|Easy|Java, Javascript||
-|35|**Reverse Linked List**|Easy|Java, Javascript||
-|39|**Recover Rotated Sorted Array**|Easy|Java, Javascript||
-|41|**Maximum Subarray**|Easy|Java, Javascript||
-|44|**Minimum Subarray**|Easy|Java, Javascript||
-|46|**Majority Number**|Easy|Java, Javascript||
+|30|**Insert Interval**|Easy|Java, Javascript|Done|
+|35|**Reverse Linked List**|Easy|Java, Javascript|Done|
+|39|**Recover Rotated Sorted Array**|Easy|Java, Javascript|Done|
+|41|**Maximum Subarray**|Easy|Java, Javascript|Done|
+|44|**Minimum Subarray**|Easy|Java, Javascript|Done|
+|46|**Majority Number**|Easy|Java, Javascript|Done|
 |50|**Product of Array Exclude Itself**|Easy|Java, Javascript||
 |53|**Reverse Words in a String**|Easy|Java, Javascript||
 |55|**Compare Strings**|Easy|Java, Javascript||
