@@ -27,9 +27,9 @@ By Jin Wang
 |8|**Rotate String**|Easy|Java, Javascript|Done|
 |9|**Fizz Buzz**|Easy|Java, Javascript|Done|
 |13|**strStr**|Easy|Java, Javascript|Done|
-|14|**First Position of Target**|Easy|Java, Javascript||
-|22|**Flatten List**|Easy|Java, Javascript||
-|28|**Search a 2D Matrix**|Easy|Java, Javascript||
+|14|**First Position of Target**|Easy|Java, Javascript|Done|
+|22|**Flatten List**|Easy|Java, Javascript|Done|
+|28|**Search a 2D Matrix**|Easy|Java, Javascript|Done|
 |30|**Insert Interval**|Easy|Java, Javascript||
 |35|**Reverse Linked List**|Easy|Java, Javascript||
 |39|**Recover Rotated Sorted Array**|Easy|Java, Javascript||

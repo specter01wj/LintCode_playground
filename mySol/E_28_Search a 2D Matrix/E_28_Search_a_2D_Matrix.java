@@ -23,7 +23,7 @@ public class E_28_Search_a_2D_Matrix {
     public static void main(String[] args) {
 
         int[][] input = {{1, 3, 5, 7},{10, 11, 16, 20},{23, 30, 34, 50}};
-        boolean output = searchMatrix(input, 3);
+        boolean output = searchMatrix(input, 16);
         System.out.println("input: " + Arrays.deepToString(input) + "\noutput: " + output);
 
     }
