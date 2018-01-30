@@ -36,9 +36,9 @@ By Jin Wang
 |41|**Maximum Subarray**|Easy|Java, Javascript|Done|
 |44|**Minimum Subarray**|Easy|Java, Javascript|Done|
 |46|**Majority Number**|Easy|Java, Javascript|Done|
-|50|**Product of Array Exclude Itself**|Easy|Java, Javascript||
-|53|**Reverse Words in a String**|Easy|Java, Javascript||
-|55|**Compare Strings**|Easy|Java, Javascript||
+|50|**Product of Array Exclude Itself**|Easy|Java, Javascript|Done|
+|53|**Reverse Words in a String**|Easy|Java, Javascript|Done|
+|55|**Compare Strings**|Easy|Java, Javascript|Done|
 |56|**Two Sum**|Easy|Java, Javascript||
 |60|**Search Insert Position**|Easy|Java, Javascript||
 |64|**Merge Sorted Array**|Easy|Java, Javascript||
