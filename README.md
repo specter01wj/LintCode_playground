@@ -39,13 +39,13 @@ By Jin Wang
 |50|**Product of Array Exclude Itself**|Easy|Java, Javascript|Done|
 |53|**Reverse Words in a String**|Easy|Java, Javascript|Done|
 |55|**Compare Strings**|Easy|Java, Javascript|Done|
-|56|**Two Sum**|Easy|Java, Javascript||
-|60|**Search Insert Position**|Easy|Java, Javascript||
-|64|**Merge Sorted Array**|Easy|Java, Javascript||
-|66|**Binary Tree Preorder Traversal**|Easy|Java, Javascript||
-|67|**Binary Tree Inorder Traversal**|Easy|Java, Javascript||
-|68|**Binary Tree Postorder Traversal**|Easy|Java, Javascript||
-|69|**Binary Tree Level Order Traversal**|Easy|Java, Javascript||
+|56|**Two Sum**|Easy|Java, Javascript|Done|
+|60|**Search Insert Position**|Easy|Java, Javascript|Done|
+|64|**Merge Sorted Array**|Easy|Java, Javascript|Done|
+|66|**Binary Tree Preorder Traversal**|Easy|Java, Javascript|Done|
+|67|**Binary Tree Inorder Traversal**|Easy|Java, Javascript|Done|
+|68|**Binary Tree Postorder Traversal**|Easy|Java, Javascript|Done|
+|69|**Binary Tree Level Order Traversal**|Easy|Java, Javascript|Done|
 |80|**Median**|Easy|Java, Javascript||
 
 
