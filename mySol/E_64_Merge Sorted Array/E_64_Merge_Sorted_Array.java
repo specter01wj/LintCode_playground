@@ -16,9 +16,10 @@ public class E_64_Merge_Sorted_Array {
 
     public static void main(String[] args) {
 
-        int[] input1 = {1,3,5,6,(Integer) null,(Integer) null}, input2 = {4,8};
-        int[] output = mergeSortedArray(input1, 6, input2, 2);
-        System.out.println("input: " + Arrays.toString(input1) + "\noutput: " + Arrays.toString(output));
+        int[] input1 = {1,3,5,6,0,0}, input2 = {4,8};
+        System.out.println("input1: " + Arrays.toString(input1));
+        int[] output = mergeSortedArray(input1, 4, input2, 2);
+        System.out.println("input2: " + Arrays.toString(input2) + "\noutput: " + Arrays.toString(output));
 
     }
 
@@ -34,6 +35,7 @@ public class E_64_Merge_Sorted_Array {
         int[] result;
         int i = m - 1;
         int j = n - 1;
+
         for (int k = m + n - 1; k >= 0; k--) {
             if (i == -1) {
                 A[k] = B[j--];
@@ -45,6 +47,7 @@ public class E_64_Merge_Sorted_Array {
                 A[k] = B[j--];
             }
         }
+        
         result = A;
 
         return result;
