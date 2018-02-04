@@ -46,14 +46,25 @@ By Jin Wang
 |67|**Binary Tree Inorder Traversal**|Easy|Java, Javascript|Done|
 |68|**Binary Tree Postorder Traversal**|Easy|Java, Javascript|Done|
 |69|**Binary Tree Level Order Traversal**|Easy|Java, Javascript|Done|
-|80|**Median**|Easy|Java, Javascript||
-|82|**Single Number**|Easy|Java, Javascript||
-|85|**Insert Node in a Binary Search Tree**|Easy|Java, Javascript||
+|80|**Median**|Easy|Java, Javascript|Done|
+|82|**Single Number**|Easy|Java, Javascript|Done|
+|85|**Insert Node in a Binary Search Tree**|Easy|Java, Javascript|Done|
 |93|**Balanced Binary Tree**|Easy|Java, Javascript||
 |96|**Partition List**|Easy|Java, Javascript||
 |97|**Maximum Depth of Binary Tree**|Easy|Java, Javascript||
 |100|**Remove Duplicates from Sorted Array**|Easy|Java, Javascript||
 |101|**Remove Duplicates from Sorted Array II**|Easy|Java, Javascript||
+|109|**Triangle**|Easy|Java, Javascript||
+|110|**Minimum Path Sum**|Easy|Java, Javascript||
+|111|**Climbing Stairs**|Easy|Java, Javascript||
+|112|**Remove Duplicates from Sorted List**|Easy|Java, Javascript||
+|114|**Unique Paths**|Easy|Java, Javascript||
+|115|**Unique Paths II**|Easy|Java, Javascript||
+|128|**Hash Function**|Easy|Java, Javascript||
+|133|**Longest Words**|Easy|Java, Javascript||
+|138|**Subarray Sum**|Easy|Java, Javascript||
+|141|**Sqrt(x)**|Easy|Java, Javascript||
+|142|**O(1) Check Power of 2**|Easy|Java, Javascript||
 
 
 ### Medium Level
