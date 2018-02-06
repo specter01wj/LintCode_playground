@@ -49,9 +49,9 @@ By Jin Wang
 |80|**Median**|Easy|Java, Javascript|Done|
 |82|**Single Number**|Easy|Java, Javascript|Done|
 |85|**Insert Node in a Binary Search Tree**|Easy|Java, Javascript|Done|
-|93|**Balanced Binary Tree**|Easy|Java, Javascript||
-|96|**Partition List**|Easy|Java, Javascript||
-|97|**Maximum Depth of Binary Tree**|Easy|Java, Javascript||
+|93|**Balanced Binary Tree**|Easy|Java, Javascript|Done|
+|96|**Partition List**|Easy|Java, Javascript|Done|
+|97|**Maximum Depth of Binary Tree**|Easy|Java, Javascript|Done|
 |100|**Remove Duplicates from Sorted Array**|Easy|Java, Javascript||
 |101|**Remove Duplicates from Sorted Array II**|Easy|Java, Javascript||
 |109|**Triangle**|Easy|Java, Javascript||
