@@ -52,8 +52,8 @@ By Jin Wang
 |93|**Balanced Binary Tree**|Easy|Java, Javascript|Done|
 |96|**Partition List**|Easy|Java, Javascript|Done|
 |97|**Maximum Depth of Binary Tree**|Easy|Java, Javascript|Done|
-|100|**Remove Duplicates from Sorted Array**|Easy|Java, Javascript||
-|101|**Remove Duplicates from Sorted Array II**|Easy|Java, Javascript||
+|100|**Remove Duplicates from Sorted Array**|Easy|Java, Javascript|Done|
+|101|**Remove Duplicates from Sorted Array II**|Easy|Java, Javascript|Done|
 |109|**Triangle**|Easy|Java, Javascript||
 |110|**Minimum Path Sum**|Easy|Java, Javascript||
 |111|**Climbing Stairs**|Easy|Java, Javascript||
