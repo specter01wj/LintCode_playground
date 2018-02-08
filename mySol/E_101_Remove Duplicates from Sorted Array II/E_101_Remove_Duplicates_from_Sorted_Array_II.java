@@ -14,7 +14,7 @@ public class E_101_Remove_Duplicates_from_Sorted_Array_II {
 
     public static void main(String[] args) {
 
-        int[] input = {1,1,1,2,2,3};
+        int[] input = {1,1,1,2,2,3,6,6,6,6,6,9};
         int output = removeDuplicates(input);
         System.out.println("input: " + Arrays.toString(input) + "\noutput: " + output);
 
