@@ -54,9 +54,9 @@ By Jin Wang
 |97|**Maximum Depth of Binary Tree**|Easy|Java, Javascript|Done|
 |100|**Remove Duplicates from Sorted Array**|Easy|Java, Javascript|Done|
 |101|**Remove Duplicates from Sorted Array II**|Easy|Java, Javascript|Done|
-|109|**Triangle**|Easy|Java, Javascript||
-|110|**Minimum Path Sum**|Easy|Java, Javascript||
-|111|**Climbing Stairs**|Easy|Java, Javascript||
+|109|**Triangle**|Easy|Java, Javascript|Done|
+|110|**Minimum Path Sum**|Easy|Java, Javascript|Done|
+|111|**Climbing Stairs**|Easy|Java, Javascript|Done|
 |112|**Remove Duplicates from Sorted List**|Easy|Java, Javascript||
 |114|**Unique Paths**|Easy|Java, Javascript||
 |115|**Unique Paths II**|Easy|Java, Javascript||
