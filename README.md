@@ -57,9 +57,9 @@ By Jin Wang
 |109|**Triangle**|Easy|Java, Javascript|Done|
 |110|**Minimum Path Sum**|Easy|Java, Javascript|Done|
 |111|**Climbing Stairs**|Easy|Java, Javascript|Done|
-|112|**Remove Duplicates from Sorted List**|Easy|Java, Javascript||
-|114|**Unique Paths**|Easy|Java, Javascript||
-|115|**Unique Paths II**|Easy|Java, Javascript||
+|112|**Remove Duplicates from Sorted List**|Easy|Java, Javascript|Done|
+|114|**Unique Paths**|Easy|Java, Javascript|Done|
+|115|**Unique Paths II**|Easy|Java, Javascript|Done|
 |128|**Hash Function**|Easy|Java, Javascript||
 |133|**Longest Words**|Easy|Java, Javascript||
 |138|**Subarray Sum**|Easy|Java, Javascript||
