@@ -30,7 +30,7 @@ public class E_133_Longest_Words {
 
     public static void main(String[] args) {
 
-        String[] input = { "dog", "google", "facebook", "internationalization", "blabla" };
+        String[] input = { "dog", "google", "abcdef", "facebook", "internationalization", "blabla" };
         List<String> output = longestWords(input);
         System.out.println("input: " + Arrays.toString(input) + "\noutput: " + output);
 
