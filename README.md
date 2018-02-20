@@ -63,9 +63,9 @@ By Jin Wang
 |128|**Hash Function**|Easy|Java, Javascript|Done|
 |133|**Longest Words**|Easy|Java, Javascript|Done|
 |138|**Subarray Sum**|Easy|Java, Javascript|Done|
-|141|**Sqrt(x)**|Easy|Java, Javascript||
-|142|**O(1) Check Power of 2**|Easy|Java, Javascript||
-|155|**Minimum Depth of Binary Tree**|Easy|Java, Javascript||
+|141|**Sqrt(x)**|Easy|Java, Javascript|Done|
+|142|**O(1) Check Power of 2**|Easy|Java, Javascript|Done|
+|155|**Minimum Depth of Binary Tree**|Easy|Java, Javascript|Done|
 |156|**Merge Intervals**|Easy|Java, Javascript||
 |157|**Unique Characters**|Easy|Java, Javascript||
 |158|**Two Strings Are Anagrams**|Easy|Java, Javascript||
