@@ -65,6 +65,24 @@ By Jin Wang
 |138|**Subarray Sum**|Easy|Java, Javascript|Done|
 |141|**Sqrt(x)**|Easy|Java, Javascript||
 |142|**O(1) Check Power of 2**|Easy|Java, Javascript||
+|155|**Minimum Depth of Binary Tree**|Easy|Java, Javascript||
+|156|**Merge Intervals**|Easy|Java, Javascript||
+|157|**Unique Characters**|Easy|Java, Javascript||
+|158|**Two Strings Are Anagrams**|Easy|Java, Javascript||
+|165|**Merge Two Sorted Lists**|Easy|Java, Javascript||
+|166|**Nth to Last Node in List**|Easy|Java, Javascript||
+|167|**Add Two Numbers**|Easy|Java, Javascript||
+|172|**Remove Element**|Easy|Java, Javascript||
+|173|**Insertion Sort List**|Easy|Java, Javascript||
+|174|**Remove Nth Node From End of List**|Easy|Java, Javascript||
+|175|**Invert Binary Tree**|Easy|Java, Javascript||
+|177|**Convert Sorted Array to Binary Search Tree With Minimal Height**|Easy|Java, Javascript||
+|181|**Flip Bits**|Easy|Java, Javascript||
+|185|**Matrix Zigzag Traversal**|Easy|Java, Javascript||
+|197|**Permutation Index**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|211|**String Permutation**|Easy|Java, Javascript||
+|212|**Space Replacement**|Easy|Java, Javascript||
 
 
 ### Medium Level
