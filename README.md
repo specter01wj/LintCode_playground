@@ -76,7 +76,7 @@ By Jin Wang
 |173|**Insertion Sort List**|Easy|Java, Javascript||
 |174|**Remove Nth Node From End of List**|Easy|Java, Javascript||
 |175|**Invert Binary Tree**|Easy|Java, Javascript||
-|177|**Convert Sorted Array to Binary Search Tree With Minimal Height**|Easy|Java, Javascript||
+|177|**Convert Sorted Array to Binary **|Easy|Java, Javascript||
 |181|**Flip Bits**|Easy|Java, Javascript||
 |185|**Matrix Zigzag Traversal**|Easy|Java, Javascript||
 |197|**Permutation Index**|Easy|Java, Javascript||
