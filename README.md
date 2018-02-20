@@ -60,9 +60,9 @@ By Jin Wang
 |112|**Remove Duplicates from Sorted List**|Easy|Java, Javascript|Done|
 |114|**Unique Paths**|Easy|Java, Javascript|Done|
 |115|**Unique Paths II**|Easy|Java, Javascript|Done|
-|128|**Hash Function**|Easy|Java, Javascript||
-|133|**Longest Words**|Easy|Java, Javascript||
-|138|**Subarray Sum**|Easy|Java, Javascript||
+|128|**Hash Function**|Easy|Java, Javascript|Done|
+|133|**Longest Words**|Easy|Java, Javascript|Done|
+|138|**Subarray Sum**|Easy|Java, Javascript|Done|
 |141|**Sqrt(x)**|Easy|Java, Javascript||
 |142|**O(1) Check Power of 2**|Easy|Java, Javascript||
 
