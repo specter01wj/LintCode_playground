@@ -69,8 +69,8 @@ By Jin Wang
 |156|**Merge Intervals**|Easy|Java, Javascript|Done|
 |157|**Unique Characters**|Easy|Java, Javascript|Done|
 |158|**Two Strings Are Anagrams**|Easy|Java, Javascript|Done|
-|165|**Merge Two Sorted Lists**|Easy|Java, Javascript||
-|166|**Nth to Last Node in List**|Easy|Java, Javascript||
+|165|**Merge Two Sorted Lists**|Easy|Java, Javascript|Done|
+|166|**Nth to Last Node in List**|Easy|Java, Javascript|Done|
 |167|**Add Two Numbers**|Easy|Java, Javascript||
 |172|**Remove Element**|Easy|Java, Javascript||
 |173|**Insertion Sort List**|Easy|Java, Javascript||
