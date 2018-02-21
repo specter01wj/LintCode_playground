@@ -66,9 +66,9 @@ By Jin Wang
 |141|**Sqrt(x)**|Easy|Java, Javascript|Done|
 |142|**O(1) Check Power of 2**|Easy|Java, Javascript|Done|
 |155|**Minimum Depth of Binary Tree**|Easy|Java, Javascript|Done|
-|156|**Merge Intervals**|Easy|Java, Javascript||
-|157|**Unique Characters**|Easy|Java, Javascript||
-|158|**Two Strings Are Anagrams**|Easy|Java, Javascript||
+|156|**Merge Intervals**|Easy|Java, Javascript|Done|
+|157|**Unique Characters**|Easy|Java, Javascript|Done|
+|158|**Two Strings Are Anagrams**|Easy|Java, Javascript|Done|
 |165|**Merge Two Sorted Lists**|Easy|Java, Javascript||
 |166|**Nth to Last Node in List**|Easy|Java, Javascript||
 |167|**Add Two Numbers**|Easy|Java, Javascript||
