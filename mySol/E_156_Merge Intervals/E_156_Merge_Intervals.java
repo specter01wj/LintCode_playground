@@ -28,9 +28,9 @@ public class E_156_Merge_Intervals {
 
     public static void main(String[] args) {
 
-        int[] input = {1,2,4,5,3};
-        int output = minDepth(input);
-        System.out.println("input: " + Arrays.toString(input) + "\noutput: " + output);
+        int[][] input = {{1,3},{2,6},{8,10},{15,18}};
+        int output = merge(input);
+        System.out.println("input: " + Arrays.deeptoString(input) + "\noutput: " + output);
 
     }
 
