@@ -31,7 +31,7 @@ public class E_174_Remove_Nth_Node_From_End_of_List {
         ListNode input = {1,2,3,4,5};
         int key = 2;
         ListNode output = removeNthFromEnd(input, key);
-        System.out.println("input: " + input + "\noutput: " + output);
+        System.out.println("input: " + Arrays.toString(input) + "\noutput: " + output);
 
     }
 

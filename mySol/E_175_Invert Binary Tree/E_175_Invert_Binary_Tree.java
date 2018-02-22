@@ -29,7 +29,7 @@ public class E_175_Invert_Binary_Tree {
 
         int[] input = {1,2,3,#,4,#};
         invertBinaryTree(input);
-        System.out.println("input: " + input + "\noutput: " + input);
+        System.out.println("input: " + Arrays.toString(input) + "\noutput: " + input);
 
     }
 

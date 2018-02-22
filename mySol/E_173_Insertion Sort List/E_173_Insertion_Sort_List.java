@@ -25,7 +25,7 @@ public class E_173_Insertion_Sort_List {
 
         ListNode input = {1,3,2,0};
         ListNode output = insertionSortList(input);
-        System.out.println("input: " + input + "\noutput: " + output);
+        System.out.println("input: " + Arrays.toString(input) + "\noutput: " + output);
 
     }
 
