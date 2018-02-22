@@ -71,12 +71,12 @@ By Jin Wang
 |158|**Two Strings Are Anagrams**|Easy|Java, Javascript|Done|
 |165|**Merge Two Sorted Lists**|Easy|Java, Javascript|Done|
 |166|**Nth to Last Node in List**|Easy|Java, Javascript|Done|
-|167|**Add Two Numbers**|Easy|Java, Javascript||
-|172|**Remove Element**|Easy|Java, Javascript||
-|173|**Insertion Sort List**|Easy|Java, Javascript||
-|174|**Remove Nth Node From End of List**|Easy|Java, Javascript||
-|175|**Invert Binary Tree**|Easy|Java, Javascript||
-|177|**Convert Sorted Array to Binary <br /> Search Tree With Minimal Height**|Easy|Java, Javascript||
+|167|**Add Two Numbers**|Easy|Java, Javascript|Done|
+|172|**Remove Element**|Easy|Java, Javascript|Done|
+|173|**Insertion Sort List**|Easy|Java, Javascript|Done|
+|174|**Remove Nth Node From End of List**|Easy|Java, Javascript|Done|
+|175|**Invert Binary Tree**|Easy|Java, Javascript|Done|
+|177|**Convert Sorted Array to Binary <br /> Search Tree With Minimal Height**|Easy|Java, Javascript|Done|
 |181|**Flip Bits**|Easy|Java, Javascript||
 |185|**Matrix Zigzag Traversal**|Easy|Java, Javascript||
 |197|**Permutation Index**|Easy|Java, Javascript||
