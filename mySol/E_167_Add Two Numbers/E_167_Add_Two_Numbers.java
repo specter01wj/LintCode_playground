@@ -29,7 +29,7 @@ public class E_167_Add_Two_Numbers {
 
         ListNode input1 = {7,1,6};
         ListNode input2 = {5,9,2};
-        ListNode output = nthToLast(input1, input2);
+        ListNode output = addLists(input1, input2);
         System.out.println("input1: " + input1 + "\noutput: " + output);
 
     }
