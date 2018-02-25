@@ -77,12 +77,12 @@ By Jin Wang
 |174|**Remove Nth Node From End of List**|Easy|Java, Javascript|Done|
 |175|**Invert Binary Tree**|Easy|Java, Javascript|Done|
 |177|**Convert Sorted Array to Binary <br /> Search Tree With Minimal Height**|Easy|Java, Javascript|Done|
-|181|**Flip Bits**|Easy|Java, Javascript||
-|185|**Matrix Zigzag Traversal**|Easy|Java, Javascript||
-|197|**Permutation Index**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
-|211|**String Permutation**|Easy|Java, Javascript||
-|212|**Space Replacement**|Easy|Java, Javascript||
+|181|**Flip Bits**|Easy|Java, Javascript|Done|
+|185|**Matrix Zigzag Traversal**|Easy|Java, Javascript|Done|
+|197|**Permutation Index**|Easy|Java, Javascript|Done|
+|204|**Singleton**|Easy|Java, Javascript|Done|
+|211|**String Permutation**|Easy|Java, Javascript|Done|
+|212|**Space Replacement**|Easy|Java, Javascript|Done|
 |227|**Mock Hanoi Tower by Stacks**|Easy|Java, Javascript||
 |245|**Subtree**|Easy|Java, Javascript||
 |365|**Count 1 in Binary**|Easy|Java, Javascript||
