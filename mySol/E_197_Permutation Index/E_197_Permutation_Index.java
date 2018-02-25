@@ -11,7 +11,7 @@ public class E_197_Permutation_Index {
 
     public static void main(String[] args) {
 
-        int[] input = {1,2,3,4,5,6};
+        int[] input = {3,1,4};
         long output = permutationIndex(input);
         System.out.println("input: " + Arrays.toString(input) + "\noutput: " + output);
 
