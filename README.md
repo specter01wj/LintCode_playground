@@ -86,10 +86,10 @@ By Jin Wang
 |227|**Mock Hanoi Tower by Stacks**|Easy|Java, Javascript|Done|
 |245|**Subtree**|Easy|Java, Javascript|Done|
 |365|**Count 1 in Binary**|Easy|Java, Javascript|Done|
-|372|**Delete Node in the Middle of Singly Linked List**|Easy|Java, Javascript||
-|373|**Partition Array by Odd and Even**|Easy|Java, Javascript||
-|375|**Clone Binary Tree**|Easy|Java, Javascript||
-|376|**Binary Tree Path Sum**|Easy|Java, Javascript||
+|372|**Delete Node in the Middle of Singly Linked List**|Easy|Java, Javascript|Done|
+|373|**Partition Array by Odd and Even**|Easy|Java, Javascript|Done|
+|375|**Clone Binary Tree**|Easy|Java, Javascript|Done|
+|376|**Binary Tree Path Sum**|Easy|Java, Javascript|Done|
 |389|**Valid Sudoku**|Easy|Java, Javascript||
 |397|**Longest Increasing Continuous Subsequence**|Easy|Java, Javascript||
 |407|**Plus One**|Easy|Java, Javascript||
