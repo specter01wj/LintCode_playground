@@ -83,9 +83,9 @@ By Jin Wang
 |204|**Singleton**|Easy|Java, Javascript|Done|
 |211|**String Permutation**|Easy|Java, Javascript|Done|
 |212|**Space Replacement**|Easy|Java, Javascript|Done|
-|227|**Mock Hanoi Tower by Stacks**|Easy|Java, Javascript||
-|245|**Subtree**|Easy|Java, Javascript||
-|365|**Count 1 in Binary**|Easy|Java, Javascript||
+|227|**Mock Hanoi Tower by Stacks**|Easy|Java, Javascript|Done|
+|245|**Subtree**|Easy|Java, Javascript|Done|
+|365|**Count 1 in Binary**|Easy|Java, Javascript|Done|
 |372|**Delete Node in the Middle of Singly Linked List**|Easy|Java, Javascript||
 |373|**Partition Array by Odd and Even**|Easy|Java, Javascript||
 |375|**Clone Binary Tree**|Easy|Java, Javascript||
