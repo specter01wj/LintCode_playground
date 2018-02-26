@@ -13,7 +13,7 @@ a should equal to b.
 
 import java.util.*;
 
-public class E_204_ Singleton {
+public class E_204_Singleton {
 
     public static void main(String[] args) {
 
