@@ -90,10 +90,10 @@ By Jin Wang
 |373|**Partition Array by Odd and Even**|Easy|Java, Javascript|Done|
 |375|**Clone Binary Tree**|Easy|Java, Javascript|Done|
 |376|**Binary Tree Path Sum**|Easy|Java, Javascript|Done|
-|389|**Valid Sudoku**|Easy|Java, Javascript||
-|397|**Longest Increasing Continuous Subsequence**|Easy|Java, Javascript||
-|407|**Plus One**|Easy|Java, Javascript||
-|408|**Add Binary**|Easy|Java, Javascript||
+|389|**Valid Sudoku**|Easy|Java, Javascript|Done|
+|397|**Longest Increasing Continuous Subsequence**|Easy|Java, Javascript|Done|
+|407|**Plus One**|Easy|Java, Javascript|Done|
+|408|**Add Binary**|Easy|Java, Javascript|Done|
 |413|**Reverse Integer**|Easy|Java, Javascript||
 |415|**Valid Palindrome**|Easy|Java, Javascript||
 |420|**Count and Say**|Easy|Java, Javascript||
