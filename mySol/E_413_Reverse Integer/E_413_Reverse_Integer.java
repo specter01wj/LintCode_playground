@@ -13,7 +13,7 @@ public class E_413_Reverse_Integer {
 
     public static void main(String[] args) {
 
-        int input = 123;
+        int input = -123;
         int output = reverseInteger(input);
         System.out.println("input: " + input + "\noutput: " + output);
 
