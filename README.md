@@ -94,8 +94,8 @@ By Jin Wang
 |397|**Longest Increasing Continuous Subsequence**|Easy|Java, Javascript|Done|
 |407|**Plus One**|Easy|Java, Javascript|Done|
 |408|**Add Binary**|Easy|Java, Javascript|Done|
-|413|**Reverse Integer**|Easy|Java, Javascript||
-|415|**Valid Palindrome**|Easy|Java, Javascript||
+|413|**Reverse Integer**|Easy|Java, Javascript|Done|
+|415|**Valid Palindrome**|Easy|Java, Javascript|Done|
 |420|**Count and Say**|Easy|Java, Javascript||
 |422|**Length of Last Word**|Easy|Java, Javascript||
 
