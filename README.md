@@ -98,6 +98,21 @@ By Jin Wang
 |415|**Valid Palindrome**|Easy|Java, Javascript|Done|
 |420|**Count and Say**|Easy|Java, Javascript||
 |422|**Length of Last Word**|Easy|Java, Javascript||
+|423|**Valid Parentheses**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
+|204|**Singleton**|Easy|Java, Javascript||
 
 
 ### Medium Level
