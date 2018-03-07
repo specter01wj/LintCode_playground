@@ -125,6 +125,12 @@ By Jin Wang
 |655|**Big Integer Addition**|Easy|Java, Javascript||
 |661|**Convert BST to Greater Tree**|Easy|Java, Javascript||
 |662|**Guess Number Game**|Easy|Java, Javascript||
+|671|**Rotate Words**|Easy|Java, Javascript||
+|680|**Split String**|Easy|Java, Javascript||
+|684|**Missing String**|Easy|Java, Javascript||
+|697|**Check Sum of Square Numbers**|Easy|Java, Javascript||
+|702|**Concatenated String with Uncommon Characters of Two Strings**|Easy|Java, Javascript||
+|720|**Rearrange a String With Integers**|Easy|Java, Javascript||
 
 
 ### Medium Level
