@@ -105,10 +105,10 @@ By Jin Wang
 |453|**Flatten Binary Tree to Linked List**|Easy|Java, Javascript||
 |457|**Classical Binary Search**|Easy|Java, Javascript||
 |464|**Sort Integers II**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
+|469|**Identical Binary Tree**|Easy|Java, Javascript||
+|480|**Binary Tree Paths**|Easy|Java, Javascript||
+|488|**Happy Number**|Easy|Java, Javascript||
+|491|**Palindrome Number**|Easy|Java, Javascript||
 |204|**Singleton**|Easy|Java, Javascript||
 |204|**Singleton**|Easy|Java, Javascript||
 |204|**Singleton**|Easy|Java, Javascript||
