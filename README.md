@@ -109,10 +109,10 @@ By Jin Wang
 |480|**Binary Tree Paths**|Easy|Java, Javascript||
 |488|**Happy Number**|Easy|Java, Javascript||
 |491|**Palindrome Number**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
-|204|**Singleton**|Easy|Java, Javascript||
+|496|**Toy Factory**|Easy|Java, Javascript||
+|499|**Word Count (Map Reduce)**|Easy|Java, Javascript||
+|514|**Paint Fence**|Easy|Java, Javascript||
+|517|**EUgly Number**|Easy|Java, Javascript||
 
 
 ### Medium Level
