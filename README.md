@@ -98,7 +98,7 @@ By Jin Wang
 |415|**Valid Palindrome**|Easy|Java, Javascript|Done|
 |420|**Count and Say**|Easy|Java, Javascript|Done|
 |422|**Length of Last Word**|Easy|Java, Javascript|Done|
-|423|**Valid Parentheses**|Easy|Java, Javascript||
+|423|**Valid Parentheses**|Easy|Java, Javascript|Done|
 |433|**Number of Islands**|Easy|Java, Javascript||
 |445|**Cosine Similarity**|Easy|Java, Javascript||
 |451|**Swap Nodes in Pairs**|Easy|Java, Javascript||
