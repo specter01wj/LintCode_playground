@@ -96,8 +96,8 @@ By Jin Wang
 |408|**Add Binary**|Easy|Java, Javascript|Done|
 |413|**Reverse Integer**|Easy|Java, Javascript|Done|
 |415|**Valid Palindrome**|Easy|Java, Javascript|Done|
-|420|**Count and Say**|Easy|Java, Javascript||
-|422|**Length of Last Word**|Easy|Java, Javascript||
+|420|**Count and Say**|Easy|Java, Javascript|Done|
+|422|**Length of Last Word**|Easy|Java, Javascript|Done|
 |423|**Valid Parentheses**|Easy|Java, Javascript||
 |433|**Number of Islands**|Easy|Java, Javascript||
 |445|**Cosine Similarity**|Easy|Java, Javascript||
