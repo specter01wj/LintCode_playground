@@ -99,8 +99,8 @@ By Jin Wang
 |420|**Count and Say**|Easy|Java, Javascript|Done|
 |422|**Length of Last Word**|Easy|Java, Javascript|Done|
 |423|**Valid Parentheses**|Easy|Java, Javascript|Done|
-|433|**Number of Islands**|Easy|Java, Javascript||
-|445|**Cosine Similarity**|Easy|Java, Javascript||
+|433|**Number of Islands**|Easy|Java, Javascript|Done|
+|445|**Cosine Similarity**|Easy|Java, Javascript|Done|
 |451|**Swap Nodes in Pairs**|Easy|Java, Javascript||
 |453|**Flatten Binary Tree to Linked List**|Easy|Java, Javascript||
 |457|**Classical Binary Search**|Easy|Java, Javascript||
