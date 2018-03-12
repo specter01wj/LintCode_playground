@@ -16,7 +16,7 @@ Given 1->2->3->4, you should return the list as 2->1->4->3.
 
 import java.util.*;
 
-public class E_375_Clone_Binary_Tree {
+public class E_451_Swap_Nodes_in_Pairs {
 
     public static void main(String[] args) {
 
