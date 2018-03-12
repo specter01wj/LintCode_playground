@@ -101,9 +101,9 @@ By Jin Wang
 |423|**Valid Parentheses**|Easy|Java, Javascript|Done|
 |433|**Number of Islands**|Easy|Java, Javascript|Done|
 |445|**Cosine Similarity**|Easy|Java, Javascript|Done|
-|451|**Swap Nodes in Pairs**|Easy|Java, Javascript||
-|453|**Flatten Binary Tree to Linked List**|Easy|Java, Javascript||
-|457|**Classical Binary Search**|Easy|Java, Javascript||
+|451|**Swap Nodes in Pairs**|Easy|Java, Javascript|Done|
+|453|**Flatten Binary Tree to Linked List**|Easy|Java, Javascript|Done|
+|457|**Classical Binary Search**|Easy|Java, Javascript|Done|
 |464|**Sort Integers II**|Easy|Java, Javascript||
 |469|**Identical Binary Tree**|Easy|Java, Javascript||
 |480|**Binary Tree Paths**|Easy|Java, Javascript||
