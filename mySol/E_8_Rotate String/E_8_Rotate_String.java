@@ -19,6 +19,7 @@ Reverse the two parts(before and after the offset),
 then reverse the whole string, then the two parts are swapped, 
 but within each part the characters are still in their original order.
 */
+
 import java.util.*;
 
 public class E_8_Rotate_String {
