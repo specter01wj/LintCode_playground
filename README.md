@@ -104,7 +104,7 @@ By Jin Wang
 |451|**Swap Nodes in Pairs**|Easy|Java, Javascript|Done|
 |453|**Flatten Binary Tree to Linked List**|Easy|Java, Javascript|Done|
 |457|**Classical Binary Search**|Easy|Java, Javascript|Done|
-|464|**Sort Integers II**|Easy|Java, Javascript||
+|464|**Sort Integers II**|Easy|Java, Javascript|Done|
 |469|**Identical Binary Tree**|Easy|Java, Javascript||
 |480|**Binary Tree Paths**|Easy|Java, Javascript||
 |488|**Happy Number**|Easy|Java, Javascript||
