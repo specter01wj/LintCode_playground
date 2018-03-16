@@ -131,6 +131,16 @@ By Jin Wang
 |697|**Check Sum of Square Numbers**|Easy|Java, Javascript||
 |702|**Concatenated String with Uncommon <br /> Characters of Two Strings**|Easy|Java, Javascript||
 |720|**Rearrange a String With Integers**|Easy|Java, Javascript||
+|730|**Sum of All Subsets**|Easy|Java, Javascript||
+|737|**Find Elements in Matrix**|Easy|Java, Javascript||
+|745|**Palindromic Ranges**|Easy|Java, Javascript||
+|749|**John's backyard garden**|Easy|Java, Javascript||
+|764|**Calculate Circumference And Area**|Easy|Java, Javascript||
+|765|**Valid Triangle**|Easy|Java, Javascript||
+|766|**Leap Year**|Easy|Java, Javascript||
+|767|**Reverse Array**|Easy|Java, Javascript||
+|768|**Yang Hui Triangle**|Easy|Java, Javascript||
+|769|**Spiral Array**|Easy|Java, Javascript||
 
 
 ### Medium Level
