@@ -9,12 +9,16 @@ By Jin Wang
 
 | No. | Problem       | Level  | Language  | Completed|
 |:-------:|:--------------|:------:|:---------:|:-------------:|
+|37|**Reverse 3-digit Integer**|Naive|Java, Javascript||
+|145|**Lowercase to Uppercase**|Naive|Java, Javascript||
 |366|**Fibonacci**|Naive|Java, Javascript|Done/Done|
 |452|**Remove Linked List Elements**|Naive|Java, Javascript|Done|
 |454|**Rectangle Area**|Naive|Java, Javascript|Done|
 |463|**Sort Integers**|Naive|Java, Javascript|Done|
 |466|**Count Linked List Nodes**|Naive|Java, Javascript|Done|
+|484|**Swap Two Integers in Array**|Naive|Java, Javascript||
 |632|**Binary Tree Maximum Node**|Naive|Java, Javascript|Done|
+|763|**Hex Conversion**|Naive|Java, Javascript||
 
 
 ### Easy Level
@@ -81,6 +85,7 @@ By Jin Wang
 |185|**Matrix Zigzag Traversal**|Easy|Java, Javascript|Done|
 |197|**Permutation Index**|Easy|Java, Javascript|Done|
 |204|**Singleton**|Easy|Java, Javascript|Done|
+|209|**First Unique Character in a String**|Easy|Java, Javascript||
 |211|**String Permutation**|Easy|Java, Javascript|Done|
 |212|**Space Replacement**|Easy|Java, Javascript|Done|
 |227|**Mock Hanoi Tower by Stacks**|Easy|Java, Javascript|Done|
