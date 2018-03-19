@@ -108,9 +108,9 @@ By Jin Wang
 |469|**Identical Binary Tree**|Easy|Java, Javascript|Done|
 |480|**Binary Tree Paths**|Easy|Java, Javascript|Done|
 |488|**Happy Number**|Easy|Java, Javascript|Done|
-|491|**Palindrome Number**|Easy|Java, Javascript||
-|496|**Toy Factory**|Easy|Java, Javascript||
-|499|**Word Count (Map Reduce)**|Easy|Java, Javascript||
+|491|**Palindrome Number**|Easy|Java, Javascript|Done|
+|496|**Toy Factory**|Easy|Java, Javascript|Done|
+|499|**Word Count (Map Reduce)**|Easy|Java, Javascript|Done|
 |514|**Paint Fence**|Easy|Java, Javascript||
 |517|**EUgly Number**|Easy|Java, Javascript||
 |524|**Left Pad**|Easy|Java, Javascript||
