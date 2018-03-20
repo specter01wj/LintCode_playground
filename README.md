@@ -116,7 +116,7 @@ By Jin Wang
 |491|**Palindrome Number**|Easy|Java, Javascript|Done|
 |496|**Toy Factory**|Easy|Java, Javascript|Done|
 |499|**Word Count (Map Reduce)**|Easy|Java, Javascript|Done|
-|514|**Paint Fence**|Easy|Java, Javascript||
+|514|**Paint Fence**|Easy|Java, Javascript|Done|
 |517|**EUgly Number**|Easy|Java, Javascript||
 |524|**Left Pad**|Easy|Java, Javascript||
 |539|**Move Zeroes**|Easy|Java, Javascript||
