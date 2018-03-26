@@ -15,8 +15,8 @@ public class E_547_Intersection_of_Two_Arrays {
 
     public static void main(String[] args) {
 
-        int[] input1 = {1, 2, 3, 4, 2, 1};
-        int[] input2 = {2, 3, 8};
+        int[] input1 = {1, 2, 3, 3, 4, 2, 1};
+        int[] input2 = {2, 3, 3, 8};
         int[] output = intersection(input1, input2);
         System.out.println("input1: " + Arrays.toString(input1) + 
             " input2: " + Arrays.toString(input2) + "\noutput: " + Arrays.toString(output));
