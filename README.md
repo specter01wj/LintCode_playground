@@ -120,9 +120,9 @@ By Jin Wang
 |517|**EUgly Number**|Easy|Java, Javascript|Done|
 |524|**Left Pad**|Easy|Java, Javascript|Done|
 |539|**Move Zeroes**|Easy|Java, Javascript|Done|
-|547|**Intersection of Two Arrays**|Easy|Java, Javascript||
-|548|**Intersection of Two Arrays II**|Easy|Java, Javascript||
-|569|**Add Digits**|Easy|Java, Javascript||
+|547|**Intersection of Two Arrays**|Easy|Java, Javascript|Done|
+|548|**Intersection of Two Arrays II**|Easy|Java, Javascript|Done|
+|569|**Add Digits**|Easy|Java, Javascript|Done|
 |604|**Window Sum**|Easy|Java, Javascript||
 |627|**Longest Palindrome**|Easy|Java, Javascript||
 |638|**Strings Homomorphism**|Easy|Java, Javascript||
