@@ -123,8 +123,8 @@ By Jin Wang
 |547|**Intersection of Two Arrays**|Easy|Java, Javascript|Done|
 |548|**Intersection of Two Arrays II**|Easy|Java, Javascript|Done|
 |569|**Add Digits**|Easy|Java, Javascript|Done|
-|604|**Window Sum**|Easy|Java, Javascript||
-|627|**Longest Palindrome**|Easy|Java, Javascript||
+|604|**Window Sum**|Easy|Java, Javascript|Done|
+|627|**Longest Palindrome**|Easy|Java, Javascript|Done|
 |638|**Strings Homomorphism**|Easy|Java, Javascript||
 |646|**First Position Unique Character**|Easy|Java, Javascript||
 |655|**Big Integer Addition**|Easy|Java, Javascript||
