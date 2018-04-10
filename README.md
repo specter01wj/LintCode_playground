@@ -125,7 +125,7 @@ By Jin Wang
 |569|**Add Digits**|Easy|Java, Javascript|Done|
 |604|**Window Sum**|Easy|Java, Javascript|Done|
 |627|**Longest Palindrome**|Easy|Java, Javascript|Done|
-|638|**Strings Homomorphism**|Easy|Java, Javascript||
+|638|**Strings Homomorphism**|Easy|Java, Javascript|Done|
 |646|**First Position Unique Character**|Easy|Java, Javascript||
 |655|**Big Integer Addition**|Easy|Java, Javascript||
 |661|**Convert BST to Greater Tree**|Easy|Java, Javascript||
