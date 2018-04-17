@@ -128,8 +128,8 @@ By Jin Wang
 |638|**Strings Homomorphism**|Easy|Java, Javascript|Done|
 |646|**First Position Unique Character**|Easy|Java, Javascript|Done|
 |655|**Big Integer Addition**|Easy|Java, Javascript|Done|
-|661|**Convert BST to Greater Tree**|Easy|Java, Javascript||
-|662|**Guess Number Game**|Easy|Java, Javascript||
+|661|**Convert BST to Greater Tree**|Easy|Java, Javascript|Done|
+|662|**Guess Number Game**|Easy|Java, Javascript|Done|
 |671|**Rotate Words**|Easy|Java, Javascript||
 |680|**Split String**|Easy|Java, Javascript||
 |684|**Missing String**|Easy|Java, Javascript||
