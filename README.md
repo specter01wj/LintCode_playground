@@ -127,7 +127,7 @@ By Jin Wang
 |627|**Longest Palindrome**|Easy|Java, Javascript|Done|
 |638|**Strings Homomorphism**|Easy|Java, Javascript|Done|
 |646|**First Position Unique Character**|Easy|Java, Javascript|Done|
-|655|**Big Integer Addition**|Easy|Java, Javascript||
+|655|**Big Integer Addition**|Easy|Java, Javascript|Done|
 |661|**Convert BST to Greater Tree**|Easy|Java, Javascript||
 |662|**Guess Number Game**|Easy|Java, Javascript||
 |671|**Rotate Words**|Easy|Java, Javascript||
