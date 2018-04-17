@@ -52,5 +52,10 @@ public class E_662_Guess_Number_Game {
         }
         return -1;
     }
+    
+    private static int guess(int input) {
+    		int target = 4;
+    		return (input == target ? 0 : (input > target) ? -1 : 1);
+    }
 
 }
