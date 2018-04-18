@@ -33,26 +33,18 @@ public class E_671_Rotate_Words {
      */
     public static int countRotateWords(List<String> words) {
         // Write your code here
-        if (words == null || words.size() == 0) {
-            return 0;
+    		Set<String> dict = new HashSet<String>();
+        
+        for (String w : words) {
+            String s = w + w;
+            for (int i = 0; i < w.length(); i++) {
+                dict.remove(s.substring(i, i + w.length()));
+            }
+            
+            dict.add(w);
         }
         
-        Set<String> set = new HashSet<>();
-        for (String word: words) {
-            boolean exist = false;
-            for (int i = 0; i < word.length(); i++) {
-                String cur = word.substring(i, word.length()) + 
-                             word.substring(0, i);
-                if (set.contains(cur)) {
-                    exist = true;
-                    break;
-                }
-            }
-            if (exist == false) {
-                set.add(word);
-            }
-        }
-        return set.size();
+        return dict.size();
     }
 
 }
