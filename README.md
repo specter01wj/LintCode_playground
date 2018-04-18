@@ -130,8 +130,8 @@ By Jin Wang
 |655|**Big Integer Addition**|Easy|Java, Javascript|Done|
 |661|**Convert BST to Greater Tree**|Easy|Java, Javascript|Done|
 |662|**Guess Number Game**|Easy|Java, Javascript|Done|
-|671|**Rotate Words**|Easy|Java, Javascript||
-|680|**Split String**|Easy|Java, Javascript||
+|671|**Rotate Words**|Easy|Java, Javascript|Done|
+|680|**Split String**|Easy|Java, Javascript|Done|
 |684|**Missing String**|Easy|Java, Javascript||
 |697|**Check Sum of Square Numbers**|Easy|Java, Javascript||
 |702|**Concatenated String with Uncommon <br /> Characters of Two Strings**|Easy|Java, Javascript||
