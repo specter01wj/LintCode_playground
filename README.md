@@ -147,33 +147,33 @@ By Jin Wang
 |768|**Yang Hui Triangle**|Easy|Java, Javascript||
 |769|**Spiral Array**|Easy|Java, Javascript||
 |770|**Maximum and Minimum**|Easy|Java, Javascript||
-|777|**Subtree**|Easy|Java, Javascript||
-|784|**Subtree**|Easy|Java, Javascript||
-|792|**Subtree**|Easy|Java, Javascript||
-|797|**Subtree**|Easy|Java, Javascript||
-|807|**Subtree**|Easy|Java, Javascript||
-|813|**Subtree**|Easy|Java, Javascript||
-|822|**Subtree**|Easy|Java, Javascript||
-|823|**Subtree**|Easy|Java, Javascript||
-|828|**Subtree**|Easy|Java, Javascript||
-|830|**Subtree**|Easy|Java, Javascript||
-|834|**Subtree**|Easy|Java, Javascript||
-|835|**Subtree**|Easy|Java, Javascript||
-|836|**Subtree**|Easy|Java, Javascript||
-|837|**Subtree**|Easy|Java, Javascript||
-|838|**Subtree**|Easy|Java, Javascript||
-|839|**Subtree**|Easy|Java, Javascript||
-|844|**Subtree**|Easy|Java, Javascript||
-|845|**Subtree**|Easy|Java, Javascript||
-|846|**Subtree**|Easy|Java, Javascript||
-|856|**Subtree**|Easy|Java, Javascript||
-|868|**Subtree**|Easy|Java, Javascript||
-|888|**Subtree**|Easy|Java, Javascript||
-|891|**Subtree**|Easy|Java, Javascript||
-|895|**Subtree**|Easy|Java, Javascript||
-|897|**Subtree**|Easy|Java, Javascript||
-|900|**Subtree**|Easy|Java, Javascript||
-|914|**Subtree**|Easy|Java, Javascript||
+|777|**Valid Perfect Square**|Easy|Java, Javascript||
+|784|**The Longest Common Prefix II**|Easy|Java, Javascript||
+|792|**Kth Prime Number**|Easy|Java, Javascript||
+|797|**Reach a Number**|Easy|Java, Javascript||
+|807|**Palindrome Number II**|Easy|Java, Javascript||
+|813|**Find Anagram Mappings**|Easy|Java, Javascript||
+|822|**Reverse Order Storage**|Easy|Java, Javascript||
+|823|**Input Stream**|Easy|Java, Javascript||
+|828|**Word Pattern**|Easy|Java, Javascript||
+|830|**String Sort**|Easy|Java, Javascript||
+|834|**Remove Duplicate Letters**|Easy|Java, Javascript||
+|835|**Hamming Distance**|Easy|Java, Javascript||
+|836|**Partition to K Equal Sum Subsets**|Easy|Java, Javascript||
+|837|**Palindromic Substrings**|Easy|Java, Javascript||
+|838|**Subarray Sum Equals K**|Easy|Java, Javascript||
+|839|**Merge Two Sorted Interval Lists**|Easy|Java, Javascript||
+|844|**Number Pair Statistics**|Easy|Java, Javascript||
+|845|**Greatest Common Divisor**|Easy|Java, Javascript||
+|846|**Multi-keyword Sort**|Easy|Java, Javascript||
+|856|**Sentence Similarity**|Easy|Java, Javascript||
+|868|**Maximum Average Subarray I**|Easy|Java, Javascript||
+|888|**Valid Word Square**|Easy|Java, Javascript||
+|891|**Valid Palindrome II**|Easy|Java, Javascript||
+|895|**Friend Request**|Easy|Java, Javascript||
+|897|**Island City**|Easy|Java, Javascript||
+|900|**Closest Binary Search Tree Value**|Easy|Java, Javascript||
+|914|**Flip Game**|Easy|Java, Javascript||
 
 
 ### Medium Level
