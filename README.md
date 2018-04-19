@@ -146,6 +146,34 @@ By Jin Wang
 |767|**Reverse Array**|Easy|Java, Javascript||
 |768|**Yang Hui Triangle**|Easy|Java, Javascript||
 |769|**Spiral Array**|Easy|Java, Javascript||
+|770|**Maximum and Minimum**|Easy|Java, Javascript||
+|777|**Subtree**|Easy|Java, Javascript||
+|784|**Subtree**|Easy|Java, Javascript||
+|792|**Subtree**|Easy|Java, Javascript||
+|797|**Subtree**|Easy|Java, Javascript||
+|807|**Subtree**|Easy|Java, Javascript||
+|813|**Subtree**|Easy|Java, Javascript||
+|822|**Subtree**|Easy|Java, Javascript||
+|823|**Subtree**|Easy|Java, Javascript||
+|828|**Subtree**|Easy|Java, Javascript||
+|830|**Subtree**|Easy|Java, Javascript||
+|834|**Subtree**|Easy|Java, Javascript||
+|835|**Subtree**|Easy|Java, Javascript||
+|836|**Subtree**|Easy|Java, Javascript||
+|837|**Subtree**|Easy|Java, Javascript||
+|838|**Subtree**|Easy|Java, Javascript||
+|839|**Subtree**|Easy|Java, Javascript||
+|844|**Subtree**|Easy|Java, Javascript||
+|845|**Subtree**|Easy|Java, Javascript||
+|846|**Subtree**|Easy|Java, Javascript||
+|856|**Subtree**|Easy|Java, Javascript||
+|868|**Subtree**|Easy|Java, Javascript||
+|888|**Subtree**|Easy|Java, Javascript||
+|891|**Subtree**|Easy|Java, Javascript||
+|895|**Subtree**|Easy|Java, Javascript||
+|897|**Subtree**|Easy|Java, Javascript||
+|900|**Subtree**|Easy|Java, Javascript||
+|914|**Subtree**|Easy|Java, Javascript||
 
 
 ### Medium Level
