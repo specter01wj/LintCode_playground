@@ -132,7 +132,7 @@ By Jin Wang
 |662|**Guess Number Game**|Easy|Java, Javascript|Done|
 |671|**Rotate Words**|Easy|Java, Javascript|Done|
 |680|**Split String**|Easy|Java, Javascript|Done|
-|684|**Missing String**|Easy|Java, Javascript||
+|684|**Missing String**|Easy|Java, Javascript|Done|
 |697|**Check Sum of Square Numbers**|Easy|Java, Javascript||
 |702|**Concatenated String with Uncommon <br /> Characters of Two Strings**|Easy|Java, Javascript||
 |720|**Rearrange a String With Integers**|Easy|Java, Javascript||
