@@ -123,6 +123,7 @@ By Jin Wang
 |547|**Intersection of Two Arrays**|Easy|Java, Javascript|Done|
 |548|**Intersection of Two Arrays II**|Easy|Java, Javascript|Done|
 |569|**Add Digits**|Easy|Java, Javascript|Done|
+|595|**Binary Tree Longest Consecutive Sequence**|Easy|Java, Javascript||
 |604|**Window Sum**|Easy|Java, Javascript|Done|
 |627|**Longest Palindrome**|Easy|Java, Javascript|Done|
 |637|**Valid Word Abbreviation**|Easy|Java, Javascript||
