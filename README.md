@@ -122,6 +122,7 @@ By Jin Wang
 |539|**Move Zeroes**|Easy|Java, Javascript|Done|
 |547|**Intersection of Two Arrays**|Easy|Java, Javascript|Done|
 |548|**Intersection of Two Arrays II**|Easy|Java, Javascript|Done|
+|551|**Nested List Weight Sum**|Easy|Java, Javascript||
 |569|**Add Digits**|Easy|Java, Javascript|Done|
 |595|**Binary Tree Longest Consecutive Sequence**|Easy|Java, Javascript||
 |604|**Window Sum**|Easy|Java, Javascript|Done|
