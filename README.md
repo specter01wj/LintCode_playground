@@ -143,7 +143,7 @@ By Jin Wang
 |737|**Find Elements in Matrix**|Easy|Java, Javascript|Done|
 |745|**Palindromic Ranges**|Easy|Java, Javascript|Done|
 |749|**John's backyard garden**|Easy|Java, Javascript||
-|764|**Calculate Circumference And Area**|Easy|Java, Javascript||
+|764|**Calculate Circumference And Area**|Easy|Java, Javascript|Done|
 |765|**Valid Triangle**|Easy|Java, Javascript||
 |766|**Leap Year**|Easy|Java, Javascript||
 |767|**Reverse Array**|Easy|Java, Javascript||

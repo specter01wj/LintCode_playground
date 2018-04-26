@@ -15,7 +15,7 @@ public class E_764_Calculate_Circumference_And_Area {
 
     public static void main(String[] args) {
 
-        int input = 2;
+        int input = 4;
         double[] output = calculate(input);
         System.out.println("input: " + input + "\noutput: " + Arrays.toString(output));
 
