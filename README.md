@@ -145,7 +145,7 @@ By Jin Wang
 |749|**John's backyard garden**|Easy|Java, Javascript||
 |764|**Calculate Circumference And Area**|Easy|Java, Javascript|Done|
 |765|**Valid Triangle**|Easy|Java, Javascript|Done|
-|766|**Leap Year**|Easy|Java, Javascript||
+|766|**Leap Year**|Easy|Java, Javascript|Done|
 |767|**Reverse Array**|Easy|Java, Javascript||
 |768|**Yang Hui Triangle**|Easy|Java, Javascript||
 |769|**Spiral Array**|Easy|Java, Javascript||
