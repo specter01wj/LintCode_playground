@@ -148,7 +148,7 @@ By Jin Wang
 |766|**Leap Year**|Easy|Java, Javascript|Done|
 |767|**Reverse Array**|Easy|Java, Javascript|Done|
 |768|**Yang Hui Triangle**|Easy|Java, Javascript|Done|
-|769|**Spiral Array**|Easy|Java, Javascript||
+|769|**Spiral Array**|Easy|Java, Javascript|Done|
 |770|**Maximum and Minimum**|Easy|Java, Javascript||
 |777|**Valid Perfect Square**|Easy|Java, Javascript||
 |784|**The Longest Common Prefix II**|Easy|Java, Javascript||
