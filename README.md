@@ -147,7 +147,7 @@ By Jin Wang
 |765|**Valid Triangle**|Easy|Java, Javascript|Done|
 |766|**Leap Year**|Easy|Java, Javascript|Done|
 |767|**Reverse Array**|Easy|Java, Javascript|Done|
-|768|**Yang Hui Triangle**|Easy|Java, Javascript||
+|768|**Yang Hui Triangle**|Easy|Java, Javascript|Done|
 |769|**Spiral Array**|Easy|Java, Javascript||
 |770|**Maximum and Minimum**|Easy|Java, Javascript||
 |777|**Valid Perfect Square**|Easy|Java, Javascript||
