@@ -153,7 +153,7 @@ By Jin Wang
 |777|**Valid Perfect Square**|Easy|Java, Javascript||
 |784|**The Longest Common Prefix II**|Easy|Java, Javascript||
 |792|**Kth Prime Number**|Easy|Java, Javascript||
-|797|**Reach a Number**|Easy|Java, Javascript||
+|797|**Reach a Number**|Easy|Java, Javascript|Done|
 |807|**Palindrome Number II**|Easy|Java, Javascript||
 |813|**Find Anagram Mappings**|Easy|Java, Javascript||
 |822|**Reverse Order Storage**|Easy|Java, Javascript||
