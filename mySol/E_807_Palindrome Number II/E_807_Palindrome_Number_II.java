@@ -29,7 +29,7 @@ public class E_807_Palindrome_Number_II {
 
     public static void main(String[] args) {
 
-        int input = 6;
+        int input = 27;
         boolean output = isPalindrome(input);
         System.out.println("input: " + input + "\noutput: " + output);
 
