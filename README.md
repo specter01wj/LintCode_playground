@@ -156,7 +156,7 @@ By Jin Wang
 |797|**Reach a Number**|Easy|Java, Javascript|Done|
 |807|**Palindrome Number II**|Easy|Java, Javascript|Done|
 |813|**Find Anagram Mappings**|Easy|Java, Javascript|Done|
-|822|**Reverse Order Storage**|Easy|Java, Javascript||
+|822|**Reverse Order Storage**|Easy|Java, Javascript|Done|
 |823|**Input Stream**|Easy|Java, Javascript||
 |828|**Word Pattern**|Easy|Java, Javascript||
 |830|**String Sort**|Easy|Java, Javascript||
