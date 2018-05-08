@@ -162,7 +162,7 @@ By Jin Wang
 |830|**String Sort**|Easy|Java, Javascript|Done|
 |834|**Remove Duplicate Letters**|Easy|Java, Javascript|Done|
 |835|**Hamming Distance**|Easy|Java, Javascript|Done|
-|836|**Partition to K Equal Sum Subsets**|Easy|Java, Javascript||
+|836|**Partition to K Equal Sum Subsets**|Easy|Java, Javascript|Done|
 |837|**Palindromic Substrings**|Easy|Java, Javascript||
 |838|**Subarray Sum Equals K**|Easy|Java, Javascript||
 |839|**Merge Two Sorted Interval Lists**|Easy|Java, Javascript||
