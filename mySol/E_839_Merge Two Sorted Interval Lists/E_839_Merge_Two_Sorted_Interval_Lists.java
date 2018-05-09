@@ -26,8 +26,8 @@ public class E_839_Merge_Two_Sorted_Interval_Lists {
 
     public static void main(String[] args) {
 
-        int[][] input1 = {{1,2},{3,4};
-        int[][] input2 = {{2,3},{5,6};
+        int[][] input1 = {{1,2},{3,4}};
+        int[][] input2 = {{2,3},{5,6}};
         List<Interval> output = mergeTwoInterval(input);
         System.out.println("input1: " + Arrays.deepToString(input1) + 
                             " input2: " + Arrays.deepToString(input2) + "\noutput: " + output);
