@@ -17,11 +17,25 @@ Only when p [2] and p [3] are combined, their sum of x and y can be divided by t
 
 import java.util.*;
 
+class Point {
+    int x;
+    int y;
+}
+
 public class E_844_Number_Pair_Statistics {
 
     public static void main(String[] args) {
 
-        Point[] input = {{1,2},{3,4},{5,6}};
+        Point[] input = new Point[3];
+        for(int i = 0; i < input.length; i++) {
+        	input[i] = new Point();
+        }
+        input[0].x = 1;
+        input[0].y = 2;
+        input[1].x = 3;
+        input[1].y = 4;
+        input[2].x = 5;
+        input[2].y = 6;
         int output = pairNumbers(input);
         System.out.println("input: " + Arrays.deepToString(input) + "\noutput: " + output);
 
