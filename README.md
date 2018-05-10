@@ -168,7 +168,7 @@ By Jin Wang
 |839|**Merge Two Sorted Interval Lists**|Easy|Java, Javascript|Done|
 |844|**Number Pair Statistics**|Easy|Java, Javascript|Done|
 |845|**Greatest Common Divisor**|Easy|Java, Javascript||
-|846|**Multi-keyword Sort**|Easy|Java, Javascript||
+|846|**Multi-keyword Sort**|Easy|Java, Javascript|Done|
 |856|**Sentence Similarity**|Easy|Java, Javascript||
 |868|**Maximum Average Subarray I**|Easy|Java, Javascript||
 |888|**Valid Word Square**|Easy|Java, Javascript||
