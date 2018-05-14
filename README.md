@@ -177,6 +177,12 @@ By Jin Wang
 |897|**Island City**|Easy|Java, Javascript|Done|
 |900|**Closest Binary Search Tree Value**|Easy|Java, Javascript|Done|
 |914|**Flip Game**|Easy|Java, Javascript||
+|916|**Palindrome Permutation**|Easy|Java, Javascript||
+|920|**Meeting Rooms**|Easy|Java, Javascript||
+|932|**Friends Within Three Jumps**|Easy|Java, Javascript||
+|943|**Range Sum Query - Immutable**|Easy|Java, Javascript||
+|949|**Fibonacci II**|Easy|Java, Javascript||
+|951|**Rearrange**|Easy|Java, Javascript||
 
 
 ### Medium Level
