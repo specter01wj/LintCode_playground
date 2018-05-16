@@ -88,6 +88,7 @@ By Jin Wang
 |209|**First Unique Character in a String**|Easy|Java, Javascript||
 |211|**String Permutation**|Easy|Java, Javascript|Done|
 |212|**Space Replacement**|Easy|Java, Javascript|Done|
+|213|**String Compression**|Easy|Java, Javascript||
 |227|**Mock Hanoi Tower by Stacks**|Easy|Java, Javascript|Done|
 |245|**Subtree**|Easy|Java, Javascript|Done|
 |365|**Count 1 in Binary**|Easy|Java, Javascript|Done|
