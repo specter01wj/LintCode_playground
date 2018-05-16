@@ -131,6 +131,8 @@ By Jin Wang
 |627|**Longest Palindrome**|Easy|Java, Javascript|Done|
 |637|**Valid Word Abbreviation**|Easy|Java, Javascript||
 |638|**Strings Homomorphism**|Easy|Java, Javascript|Done|
+|642|**Moving Average from Data Stream**|Easy|Java, Javascript||
+|644|**Strobogrammatic Number**|Easy|Java, Javascript||
 |646|**First Position Unique Character**|Easy|Java, Javascript|Done|
 |655|**Big Integer Addition**|Easy|Java, Javascript|Done|
 |661|**Convert BST to Greater Tree**|Easy|Java, Javascript|Done|
