@@ -127,6 +127,7 @@ By Jin Wang
 |569|**Add Digits**|Easy|Java, Javascript|Done|
 |595|**Binary Tree Longest Consecutive Sequence**|Easy|Java, Javascript||
 |604|**Window Sum**|Easy|Java, Javascript|Done|
+|607|**Two Sum III - Data structure design**|Easy|Java, Javascript||
 |627|**Longest Palindrome**|Easy|Java, Javascript|Done|
 |637|**Valid Word Abbreviation**|Easy|Java, Javascript||
 |638|**Strings Homomorphism**|Easy|Java, Javascript|Done|
