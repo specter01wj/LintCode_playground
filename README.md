@@ -195,6 +195,7 @@ By Jin Wang
 |970|**Big Business**|Easy|Java, Javascript||
 |1368|**Same Number**|Easy|Java, Javascript||
 |1380|**Log Sorting**|Easy|Java, Javascript||
+|1385|**Lucky Number Eight**|Easy|Java, Javascript||
 |1398|**K Decimal Addition**|Easy|Java, Javascript||
 |1401|**Twitch Words**|Easy|Java, Javascript||
 
