@@ -18,7 +18,7 @@ By Jin Wang
 |466|**Count Linked List Nodes**|Naive|Java, Javascript|Done|
 |484|**Swap Two Integers in Array**|Naive|Java, Javascript||
 |632|**Binary Tree Maximum Node**|Naive|Java, Javascript|Done|
-|763|**Hex Conversion**|Naive|Java, Javascript||
+|763|**Hex Conversion**|Naive|Java, Javascript|Done|
 
 
 ### Easy Level
