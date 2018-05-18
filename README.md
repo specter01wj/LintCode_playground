@@ -192,7 +192,7 @@ By Jin Wang
 |956|**Data Segmentatio**|Easy|Java, Javascript|Done|
 |957|**Radar Detection**|Easy|Java, Javascript|Done|
 |958|**Palindrome Data Stream**|Easy|Java, Javascript|Done|
-|970|**Big Business**|Easy|Java, Javascript||
+|970|**Big Business**|Easy|Java, Javascript|Done|
 |1368|**Same Number**|Easy|Java, Javascript||
 |1380|**Log Sorting**|Easy|Java, Javascript||
 |1385|**Lucky Number Eight**|Easy|Java, Javascript||
