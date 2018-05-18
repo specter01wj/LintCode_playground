@@ -32,7 +32,7 @@ public class E_957_Radar_Detection {
 
     public static void main(String[] args) {
 
-        Point[] coord = {{0,2},{1,2};
+        Point[] coord = {{0,2},{1,2}};
         int[] input = {1,2};
         String output = radarDetection(coord, input);
         System.out.println("input: " + (input) + "\noutput: " + (output));
