@@ -196,6 +196,7 @@ By Jin Wang
 |993|**Array Partition I**|Easy|Java, Javascript|Done|
 |1138|**Can Place Flowers**|Easy|Java, Javascript||
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript||
+|1230|**Assign Cookies**|Easy|Java, Javascript||
 |1368|**Same Number**|Easy|Java, Javascript|Done|
 |1380|**Log Sorting**|Easy|Java, Javascript|Done|
 |1385|**Lucky Number Eight**|Easy|Java, Javascript|Done|
