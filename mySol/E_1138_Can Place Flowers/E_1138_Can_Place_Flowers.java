@@ -26,7 +26,7 @@ public class E_1138_Can_Place_Flowers {
         int[] input = {1,0,0,0,1};
         int n = 1;
         boolean output = canPlaceFlowers(input, n);
-        System.out.println("input1 " + Arrays.toString(input) +
+        System.out.println("input: " + Arrays.toString(input) +
                             " n: " + (n) + "\noutput: " + (output));
 
     }
