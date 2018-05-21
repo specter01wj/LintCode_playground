@@ -194,6 +194,7 @@ By Jin Wang
 |958|**Palindrome Data Stream**|Easy|Java, Javascript|Done|
 |970|**Big Business**|Easy|Java, Javascript|Done|
 |993|**Array Partition I**|Easy|Java, Javascript|Done|
+|1138|**Can Place Flowers**|Easy|Java, Javascript||
 |1368|**Same Number**|Easy|Java, Javascript|Done|
 |1380|**Log Sorting**|Easy|Java, Javascript|Done|
 |1385|**Lucky Number Eight**|Easy|Java, Javascript|Done|
