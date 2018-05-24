@@ -164,7 +164,7 @@ By Jin Wang
 |822|**Reverse Order Storage**|Easy|Java, Javascript|Done|
 |823|**Input Stream**|Easy|Java, Javascript|Done|
 |828|**Word Pattern**|Easy|Java, Javascript||
-|830|**String Sort**|Easy|Java, Javascript||
+|830|**String Sort**|Easy|Java, Javascript|Done|
 |834|**Remove Duplicate Letters**|Easy|Java, Javascript|Done|
 |835|**Hamming Distance**|Easy|Java, Javascript|Done|
 |836|**Partition to K Equal Sum Subsets**|Easy|Java, Javascript|Done|
