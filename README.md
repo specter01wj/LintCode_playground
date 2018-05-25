@@ -169,7 +169,7 @@ By Jin Wang
 |835|**Hamming Distance**|Easy|Java, Javascript|Done|
 |836|**Partition to K Equal Sum Subsets**|Easy|Java, Javascript|Done|
 |837|**Palindromic Substrings**|Easy|Java, Javascript||
-|838|**Subarray Sum Equals K**|Easy|Java, Javascript|Done|
+|838|**Subarray Sum Equals K**|Easy|Java, Javascript||
 |839|**Merge Two Sorted Interval Lists**|Easy|Java, Javascript|Done|
 |844|**Number Pair Statistics**|Easy|Java, Javascript|Done|
 |845|**Greatest Common Divisor**|Easy|Java, Javascript||
