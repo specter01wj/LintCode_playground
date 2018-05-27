@@ -175,7 +175,7 @@ By Jin Wang
 |845|**Greatest Common Divisor**|Easy|Java, Javascript||
 |846|**Multi-keyword Sort**|Easy|Java, Javascript|Done|
 |856|**Sentence Similarity**|Easy|Java, Javascript||
-|868|**Maximum Average Subarray I**|Easy|Java, Javascript|Done|
+|868|**Maximum Average Subarray I**|Easy|Java, Javascript||
 |888|**Valid Word Square**|Easy|Java, Javascript||
 |891|**Valid Palindrome II**|Easy|Java, Javascript|Done|
 |895|**Friend Request**|Easy|Java, Javascript|Done|
