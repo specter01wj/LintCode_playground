@@ -171,7 +171,7 @@ By Jin Wang
 |837|**Palindromic Substrings**|Easy|Java, Javascript||
 |838|**Subarray Sum Equals K**|Easy|Java, Javascript|Done|
 |839|**Merge Two Sorted Interval Lists**|Easy|Java, Javascript|Done|
-|844|**Number Pair Statistics**|Easy|Java, Javascript|Done|
+|844|**Number Pair Statistics**|Easy|Java, Javascript||
 |845|**Greatest Common Divisor**|Easy|Java, Javascript||
 |846|**Multi-keyword Sort**|Easy|Java, Javascript|Done|
 |856|**Sentence Similarity**|Easy|Java, Javascript||
