@@ -66,7 +66,7 @@ public class E_897_Island_City {
         return ans;
     }
     
-    int[][] dir = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    static int[][] dir = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
      
     public static int dfs(boolean [][] visit, int [][] grid, int x, int y, int n, int m) {
         visit[x][y] = true;
