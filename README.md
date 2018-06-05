@@ -179,7 +179,7 @@ By Jin Wang
 |888|**Valid Word Square**|Easy|Java, Javascript||
 |891|**Valid Palindrome II**|Easy|Java, Javascript|Done|
 |895|**Friend Request**|Easy|Java, Javascript|Done|
-|897|**Island City**|Easy|Java, Javascript|Done|
+|897|**Island City**|Easy|Java, Javascript||
 |900|**Closest Binary Search Tree Value**|Easy|Java, Javascript|Done|
 |914|**Flip Game**|Easy|Java, Javascript||
 |916|**Palindrome Permutation**|Easy|Java, Javascript||
