@@ -28,6 +28,13 @@ There is a radar at (0,2) that can detect a circular area with a radius of 2 wit
 
 import java.util.*;
 
+class Point {
+	int x;
+	int y;
+	Point() { x = 0; y = 0; }
+	Point(int a, int b) { x = a; y = b; }
+}
+
 public class E_957_Radar_Detection {
 
     public static void main(String[] args) {
