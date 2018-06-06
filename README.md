@@ -188,7 +188,7 @@ By Jin Wang
 |943|**Range Sum Query - Immutable**|Easy|Java, Javascript||
 |949|**Fibonacci II**|Easy|Java, Javascript||
 |951|**Rearrange**|Easy|Java, Javascript|Done|
-|952|**Digital Problem**|Easy|Java, Javascript||
+|952|**Digital Problem**|Easy|Java, Javascript|Done|
 |956|**Data Segmentatio**|Easy|Java, Javascript|Done|
 |957|**Radar Detection**|Easy|Java, Javascript|Done|
 |958|**Palindrome Data Stream**|Easy|Java, Javascript|Done|
