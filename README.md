@@ -238,6 +238,11 @@ By Jin Wang
 |957|**Radar Detection**|Easy|Java, Javascript|Done|
 |958|**Palindrome Data Stream**|Easy|Java, Javascript|Done|
 |970|**Big Business**|Easy|Java, Javascript|Done|
+|973|**1-bit and 2-bit Characters**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|983|**Baseball Game**|Easy|Java, Javascript||
+|987|**Binary Number with Alternating Bits**|Easy|Java, Javascript||
+|988|**Arranging Coins**|Easy|Java, Javascript||
 |993|**Array Partition I**|Easy|Java, Javascript|Done|
 |1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
