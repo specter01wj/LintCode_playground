@@ -197,8 +197,10 @@ By Jin Wang
 |768|**Yang Hui Triangle**|Easy|Java, Javascript|Done|
 |769|**Spiral Array**|Easy|Java, Javascript|Done|
 |770|**Maximum and Minimum**|Easy|Java, Javascript|Done|
+|771|**Double Factorial**|Easy|Java, Javascript||
 |777|**Valid Perfect Square**|Easy|Java, Javascript||
 |784|**The Longest Common Prefix II**|Easy|Java, Javascript||
+|786|**Linked List Weighted Sum In Reverse Order**|Easy|Java, Javascript||
 |792|**Kth Prime Number**|Easy|Java, Javascript||
 |797|**Reach a Number**|Easy|Java, Javascript|Done|
 |807|**Palindrome Number II**|Easy|Java, Javascript|Done|
