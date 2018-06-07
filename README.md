@@ -38,7 +38,16 @@ By Jin Wang
 
 |463|**Sort Integers**|Naive|Java, Javascript|Done|
 |466|**Count Linked List Nodes**|Naive|Java, Javascript|Done|
+
+|478|**Simple Calculator**|Naive|Java, Javascript||
+|479|**Second Max of Array**|Naive|Java, Javascript||
+|483|**Convert Linked List to Array List**|Naive|Java, Javascript||
+
 |484|**Swap Two Integers in Array**|Naive|Java, Javascript||
+
+|456|**Reference**|Naive|Java, Javascript||
+|456|**Reference**|Naive|Java, Javascript||
+
 |632|**Binary Tree Maximum Node**|Naive|Java, Javascript|Done|
 |763|**Hex Conversion**|Naive|Java, Javascript|Done|
 
