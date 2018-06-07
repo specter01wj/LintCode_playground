@@ -152,7 +152,12 @@ By Jin Wang
 |521|**Remove Duplicate Numbers in Array**|Easy|Java, Javascript||
 
 |524|**Left Pad**|Easy|Java, Javascript|Done|
+|537|**N-Gram (Map Reduce)**|Easy|Java, Javascript||
 |539|**Move Zeroes**|Easy|Java, Javascript|Done|
+
+|543|**Kth Largest in N Arrays**|Easy|Java, Javascript||
+|546|**Implement Queue by Interface**|Easy|Java, Javascript||
+
 |547|**Intersection of Two Arrays**|Easy|Java, Javascript|Done|
 |548|**Intersection of Two Arrays II**|Easy|Java, Javascript|Done|
 |551|**Nested List Weight Sum**|Easy|Java, Javascript||
