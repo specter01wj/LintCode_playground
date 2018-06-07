@@ -101,6 +101,11 @@ By Jin Wang
 |243|**Amicable Pair**|Easy|Java, Javascript||
 
 |245|**Subtree**|Easy|Java, Javascript|Done|
+
+|246|**Binary Tree Path Sum II**|Easy|Java, Javascript||
+|254|**Drop Eggs**|Easy|Java, Javascript||
+|272|**Climbing Stairs II**|Easy|Java, Javascript||
+
 |365|**Count 1 in Binary**|Easy|Java, Javascript|Done|
 |372|**Delete Node in the Middle of Singly Linked List**|Easy|Java, Javascript|Done|
 |373|**Partition Array by Odd and Even**|Easy|Java, Javascript|Done|
