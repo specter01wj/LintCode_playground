@@ -93,6 +93,13 @@ By Jin Wang
 |216|**Substring Rotation**|Easy|Java, Javascript||
 |217|**Remove Duplicates from Unsorted List**|Easy|Java, Javascript||
 |227|**Mock Hanoi Tower by Stacks**|Easy|Java, Javascript|Done|
+
+|236|**Swap Bits**|Easy|Java, Javascript||
+|237|**Missing Integer**|Easy|Java, Javascript||
+|238|**Monochrome Screen**|Easy|Java, Javascript||
+|242|**Convert Binary Tree to Linked Lists by Depth**|Easy|Java, Javascript||
+|243|**Amicable Pair**|Easy|Java, Javascript||
+
 |245|**Subtree**|Easy|Java, Javascript|Done|
 |365|**Count 1 in Binary**|Easy|Java, Javascript|Done|
 |372|**Delete Node in the Middle of Singly Linked List**|Easy|Java, Javascript|Done|
