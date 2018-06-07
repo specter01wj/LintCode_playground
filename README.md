@@ -229,6 +229,7 @@ By Jin Wang
 |916|**Palindrome Permutation**|Easy|Java, Javascript||
 |920|**Meeting Rooms**|Easy|Java, Javascript||
 |932|**Friends Within Three Jumps**|Easy|Java, Javascript|Done|
+|936|**Capitalizes The First Letter**|Easy|Java, Javascript||
 |943|**Range Sum Query - Immutable**|Easy|Java, Javascript||
 |949|**Fibonacci II**|Easy|Java, Javascript||
 |951|**Rearrange**|Easy|Java, Javascript|Done|
