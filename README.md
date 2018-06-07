@@ -26,8 +26,16 @@ By Jin Wang
 |283|**Max of 3 Numbers**|Naive|Java, Javascript||
 
 |366|**Fibonacci**|Naive|Java, Javascript|Done/Done|
+
+|385|**ArrayList**|Naive|Java, Javascript||
+|449|**Char to Integer**|Naive|Java, Javascript||
+
 |452|**Remove Linked List Elements**|Naive|Java, Javascript|Done|
 |454|**Rectangle Area**|Naive|Java, Javascript|Done|
+
+|455|**Student ID**|Naive|Java, Javascript||
+|456|**Reference**|Naive|Java, Javascript||
+
 |463|**Sort Integers**|Naive|Java, Javascript|Done|
 |466|**Count Linked List Nodes**|Naive|Java, Javascript|Done|
 |484|**Swap Two Integers in Array**|Naive|Java, Javascript||
