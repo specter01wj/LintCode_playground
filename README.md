@@ -191,7 +191,7 @@ By Jin Wang
 |952|**Digital Problem**|Easy|Java, Javascript|Done|
 |956|**Data Segmentatio**|Easy|Java, Javascript|Done|
 |957|**Radar Detection**|Easy|Java, Javascript|Done|
-|958|**Palindrome Data Stream**|Easy|Java, Javascript||
+|958|**Palindrome Data Stream**|Easy|Java, Javascript|Done|
 |970|**Big Business**|Easy|Java, Javascript|Done|
 |993|**Array Partition I**|Easy|Java, Javascript|Done|
 |1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
