@@ -86,6 +86,7 @@ By Jin Wang
 |197|**Permutation Index**|Easy|Java, Javascript|Done|
 |204|**Singleton**|Easy|Java, Javascript|Done|
 |209|**First Unique Character in a String**|Easy|Java, Javascript||
+|210|**Null-terminated String**|Easy|Java, Javascript||
 |211|**String Permutation**|Easy|Java, Javascript|Done|
 |212|**Space Replacement**|Easy|Java, Javascript|Done|
 |213|**String Compression**|Easy|Java, Javascript||
