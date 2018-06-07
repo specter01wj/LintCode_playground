@@ -147,20 +147,20 @@ By Jin Wang
 |500|**Inverted Index**|Easy|Java, Javascript||
 |514|**Paint Fence**|Easy|Java, Javascript|Done|
 |517|**EUgly Number**|Easy|Java, Javascript|Done|
-
 |519|**Consistent Hashing**|Easy|Java, Javascript||
 |521|**Remove Duplicate Numbers in Array**|Easy|Java, Javascript||
-
 |524|**Left Pad**|Easy|Java, Javascript|Done|
 |537|**N-Gram (Map Reduce)**|Easy|Java, Javascript||
 |539|**Move Zeroes**|Easy|Java, Javascript|Done|
-
 |543|**Kth Largest in N Arrays**|Easy|Java, Javascript||
 |546|**Implement Queue by Interface**|Easy|Java, Javascript||
-
 |547|**Intersection of Two Arrays**|Easy|Java, Javascript|Done|
 |548|**Intersection of Two Arrays II**|Easy|Java, Javascript|Done|
 |551|**Nested List Weight Sum**|Easy|Java, Javascript||
+|554|**Sort Integers (Map Reduce)**|Easy|Java, Javascript||
+|557|**Count Characters**|Easy|Java, Javascript||
+|560|**Friendship Service**|Easy|Java, Javascript||
+
 |569|**Add Digits**|Easy|Java, Javascript|Done|
 |595|**Binary Tree Longest Consecutive Sequence**|Easy|Java, Javascript||
 |604|**Window Sum**|Easy|Java, Javascript|Done|
