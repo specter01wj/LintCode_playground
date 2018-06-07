@@ -163,6 +163,11 @@ By Jin Wang
 
 |569|**Add Digits**|Easy|Java, Javascript|Done|
 |595|**Binary Tree Longest Consecutive Sequence**|Easy|Java, Javascript||
+
+|596|**Minimum Subtree**|Easy|Java, Javascript||
+|597|**Subtree with Maximum Average**|Easy|Java, Javascript||
+|599|**Insert into a Cyclic Sorted List**|Easy|Java, Javascript||
+
 |604|**Window Sum**|Easy|Java, Javascript|Done|
 |607|**Two Sum III - Data structure design**|Easy|Java, Javascript||
 |627|**Longest Palindrome**|Easy|Java, Javascript|Done|
