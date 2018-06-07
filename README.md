@@ -11,6 +11,20 @@ By Jin Wang
 |:-------:|:--------------|:------:|:---------:|:-------------:|
 |37|**Reverse 3-digit Integer**|Naive|Java, Javascript||
 |145|**Lowercase to Uppercase**|Naive|Java, Javascript||
+
+|146|**Lowercase to Uppercase II**|Naive|Java, Javascript||
+|147|**Narcissistic Number**|Naive|Java, Javascript||
+|214|**Max of Array**|Naive|Java, Javascript||
+|218|**Student Level**|Naive|Java, Javascript||
+|219|**Insert Node in Sorted Linked List**|Naive|Java, Javascript||
+|222|**Setter and Getter**|Naive|Java, Javascript||
+|225|**Find Node in Linked List**|Naive|Java, Javascript||
+|228|**Middle of Linked List**|Naive|Java, Javascript||
+|235|**Prime Factorization**|Naive|Java, Javascript||
+|239|**Root of Equation**|Naive|Java, Javascript||
+|241|**String to Integer**|Naive|Java, Javascript||
+|283|**Max of 3 Numbers**|Naive|Java, Javascript||
+
 |366|**Fibonacci**|Naive|Java, Javascript|Done/Done|
 |452|**Remove Linked List Elements**|Naive|Java, Javascript|Done|
 |454|**Rectangle Area**|Naive|Java, Javascript|Done|
