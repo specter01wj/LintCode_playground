@@ -147,6 +147,10 @@ By Jin Wang
 |500|**Inverted Index**|Easy|Java, Javascript||
 |514|**Paint Fence**|Easy|Java, Javascript|Done|
 |517|**EUgly Number**|Easy|Java, Javascript|Done|
+
+|519|**Consistent Hashing**|Easy|Java, Javascript||
+|521|**Remove Duplicate Numbers in Array**|Easy|Java, Javascript||
+
 |524|**Left Pad**|Easy|Java, Javascript|Done|
 |539|**Move Zeroes**|Easy|Java, Javascript|Done|
 |547|**Intersection of Two Arrays**|Easy|Java, Javascript|Done|
