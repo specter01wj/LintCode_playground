@@ -24,30 +24,21 @@ By Jin Wang
 |239|**Root of Equation**|Naive|Java, Javascript||
 |241|**String to Integer**|Naive|Java, Javascript||
 |283|**Max of 3 Numbers**|Naive|Java, Javascript||
-
 |366|**Fibonacci**|Naive|Java, Javascript|Done/Done|
-
 |385|**ArrayList**|Naive|Java, Javascript||
 |449|**Char to Integer**|Naive|Java, Javascript||
-
 |452|**Remove Linked List Elements**|Naive|Java, Javascript|Done|
 |454|**Rectangle Area**|Naive|Java, Javascript|Done|
-
 |455|**Student ID**|Naive|Java, Javascript||
 |456|**Reference**|Naive|Java, Javascript||
-
 |463|**Sort Integers**|Naive|Java, Javascript|Done|
 |466|**Count Linked List Nodes**|Naive|Java, Javascript|Done|
-
 |478|**Simple Calculator**|Naive|Java, Javascript||
 |479|**Second Max of Array**|Naive|Java, Javascript||
 |483|**Convert Linked List to Array List**|Naive|Java, Javascript||
-
 |484|**Swap Two Integers in Array**|Naive|Java, Javascript||
-
-|456|**Reference**|Naive|Java, Javascript||
-|456|**Reference**|Naive|Java, Javascript||
-
+|485|**Generate ArrayList with Given Size**|Naive|Java, Javascript||
+|489|**Convert Array List to Linked List**|Naive|Java, Javascript||
 |632|**Binary Tree Maximum Node**|Naive|Java, Javascript|Done|
 |763|**Hex Conversion**|Naive|Java, Javascript|Done|
 
