@@ -137,6 +137,11 @@ By Jin Wang
 |474|**Lowest Common Ancestor II**|Easy|Java, Javascript||
 
 |480|**Binary Tree Paths**|Easy|Java, Javascript|Done|
+
+|481|**Binary Tree Leaf Sum**|Easy|Java, Javascript||
+|482|**Binary Tree Level Sum**|Easy|Java, Javascript||
+|487|**Name Deduplication**|Easy|Java, Javascript||
+
 |488|**Happy Number**|Easy|Java, Javascript|Done|
 |491|**Palindrome Number**|Easy|Java, Javascript|Done|
 |496|**Toy Factory**|Easy|Java, Javascript|Done|
