@@ -137,14 +137,14 @@ By Jin Wang
 |488|**Happy Number**|Easy|Java, Javascript|Done|
 |490|**Set of Stacks**|Easy|Java, Javascript|Done|
 |491|**Palindrome Number**|Easy|Java, Javascript|Done|
-
 |492|**Implement Queue by Linked List**|Easy|Java, Javascript||
 |493|**Implement Queue by Linked List II**|Easy|Java, Javascript||
 |494|**Implement Stack by Two Queues**|Easy|Java, Javascript||
 |495|**Implement Stack**|Easy|Java, Javascript||
-
 |496|**Toy Factory**|Easy|Java, Javascript|Done|
+|497|**Shape Factory**|Easy|Java, Javascript||
 |499|**Word Count (Map Reduce)**|Easy|Java, Javascript|Done|
+|500|**Inverted Index**|Easy|Java, Javascript||
 |514|**Paint Fence**|Easy|Java, Javascript|Done|
 |517|**EUgly Number**|Easy|Java, Javascript|Done|
 |524|**Left Pad**|Easy|Java, Javascript|Done|
