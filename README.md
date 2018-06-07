@@ -132,6 +132,10 @@ By Jin Wang
 |468|**Symmetric Binary Tree**|Easy|Java, Javascript||
 
 |469|**Identical Binary Tree**|Easy|Java, Javascript|Done|
+
+|470|**Tweaked Identical Binary Tree**|Easy|Java, Javascript||
+|474|**Lowest Common Ancestor II**|Easy|Java, Javascript||
+
 |480|**Binary Tree Paths**|Easy|Java, Javascript|Done|
 |488|**Happy Number**|Easy|Java, Javascript|Done|
 |491|**Palindrome Number**|Easy|Java, Javascript|Done|
