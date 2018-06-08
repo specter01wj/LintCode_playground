@@ -11,7 +11,6 @@ By Jin Wang
 |:-------:|:--------------|:------:|:---------:|:-------------:|
 |37|**Reverse 3-digit Integer**|Naive|Java, Javascript||
 |145|**Lowercase to Uppercase**|Naive|Java, Javascript||
-
 |146|**Lowercase to Uppercase II**|Naive|Java, Javascript||
 |147|**Narcissistic Number**|Naive|Java, Javascript||
 |214|**Max of Array**|Naive|Java, Javascript||
