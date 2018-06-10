@@ -268,7 +268,7 @@ By Jin Wang
 |1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
-|1368|**Same Number**|Easy|Java, Javascript||
+|1368|**Same Number**|Easy|Java, Javascript|Done|
 |1380|**Log Sorting**|Easy|Java, Javascript|Done|
 |1385|**Lucky Number Eight**|Easy|Java, Javascript|Done|
 |1398|**K Decimal Addition**|Easy|Java, Javascript|Done|
