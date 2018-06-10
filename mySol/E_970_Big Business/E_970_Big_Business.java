@@ -37,7 +37,7 @@ public class E_970_Big_Business {
         int k = 1;
         int output = bigBusiness(a, b, k);
         System.out.println("input1: " + Arrays.toString(a) +
-                            "input2: " + Arrays.toString(b) + "\noutput: " + (output));
+                            " input2: " + Arrays.toString(b) + "\noutput: " + (output));
 
     }
 
