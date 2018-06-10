@@ -258,7 +258,7 @@ By Jin Wang
 |956|**Data Segmentatio**|Easy|Java, Javascript|Done|
 |957|**Radar Detection**|Easy|Java, Javascript|Done|
 |958|**Palindrome Data Stream**|Easy|Java, Javascript|Done|
-|970|**Big Business**|Easy|Java, Javascript|Done|
+|970|**Big Business**|Easy|Java, Javascript||
 |973|**1-bit and 2-bit Characters**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |983|**Baseball Game**|Easy|Java, Javascript||
