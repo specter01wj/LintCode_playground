@@ -276,6 +276,16 @@ By Jin Wang
 |1033|**Minimum Distance Between BST Nodes**|Easy|Java, Javascript||
 |1038|**Jewels and Stones**|Easy|Java, Javascript||
 |1042|**Toeplitz Matrix**|Easy|Java, Javascript||
+|1046|**Prime Number of Set Bits in Binary Representation**|Easy|Java, Javascript||
+|1054|**Min Cost Climbing Stairs**|Easy|Java, Javascript||
+|1056|**Find Smallest Letter Greater Than Target**|Easy|Java, Javascript||
+|1062|**Flood Fill**|Easy|Java, Javascript||
+|1068|**Find Pivot Index**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
 
 |1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
