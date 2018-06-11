@@ -330,6 +330,13 @@ By Jin Wang
 |1253|**Convert a Number to Hexadecimal**|Easy|Java, Javascript||
 |1254|**Sum of Left Leaves**|Easy|Java, Javascript||
 |1256|**Nth Digit**|Easy|Java, Javascript||
+|1266|**Find the Difference**|Easy|Java, Javascript||
+|1270|**Ransom Note**|Easy|Java, Javascript||
+|1282|**Reverse Vowels of a String**|Easy|Java, Javascript||
+|1285|**Power of Four**|Easy|Java, Javascript||
+|1294|**Power of Three**|Easy|Java, Javascript||
+|1300|**Nim Game**|Easy|Java, Javascript||
+|1314|**Power of Two**|Easy|Java, Javascript||
 
 |1368|**Same Number**|Easy|Java, Javascript|Done|
 
