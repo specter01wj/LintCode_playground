@@ -302,8 +302,16 @@ By Jin Wang
 |1165|**Subtree of Another Tree**|Easy|Java, Javascript||
 |1170|**Reshape the Matrix**|Easy|Java, Javascript||
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
-
 |1173|**Reverse Words in a String III**|Easy|Java, Javascript||
+|1178|**Student Attendance Record I**|Easy|Java, Javascript||
+|1181|**Diameter of Binary Tree**|Easy|Java, Javascript||
+|1187|**K-diff Pairs in an Array**|Easy|Java, Javascript||
+|1188|**Minimum Absolute Difference in BST**|Easy|Java, Javascript||
+|1192|**Longest Uncommon Subsequence I**|Easy|Java, Javascript||
+|1193|**Detect Capital**|Easy|Java, Javascript||
+|1199|**Perfect Number**|Easy|Java, Javascript||
+|1200|**Relative Ranks**|Easy|Java, Javascript||
+|1203|**Find Mode in Binary Search Tree**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
@@ -312,6 +320,9 @@ By Jin Wang
 |977|**Base 7**|Easy|Java, Javascript||
 
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
+
+|977|**Base 7**|Easy|Java, Javascript||
+
 |1368|**Same Number**|Easy|Java, Javascript|Done|
 |1380|**Log Sorting**|Easy|Java, Javascript|Done|
 |1385|**Lucky Number Eight**|Easy|Java, Javascript|Done|
