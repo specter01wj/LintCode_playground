@@ -344,13 +344,15 @@ By Jin Wang
 |1334|**Rotate Array**|Easy|Java, Javascript||
 |1347|**Factorial Trailing Zeroes**|Easy|Java, Javascript||
 |1348|**Excel Sheet Column Number**|Easy|Java, Javascript||
-
+|1350|**Excel Sheet Column Title**|Easy|Java, Javascript||
+|1354|**Pascal's Triangle II**|Easy|Java, Javascript||
+|1360|**Symmetric Tree**|Easy|Java, Javascript||
 |1368|**Same Number**|Easy|Java, Javascript|Done|
+|1380|**Log Sorting**|Easy|Java, Javascript|Done|
+|1385|**Lucky Number Eight**|Easy|Java, Javascript|Done|
 
 |977|**Base 7**|Easy|Java, Javascript||
 
-|1380|**Log Sorting**|Easy|Java, Javascript|Done|
-|1385|**Lucky Number Eight**|Easy|Java, Javascript|Done|
 |1398|**K Decimal Addition**|Easy|Java, Javascript|Done|
 |1401|**Twitch Words**|Easy|Java, Javascript|Done|
 |1410|**Matrix Water Injection**|Easy|Java, Javascript|Done|
