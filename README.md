@@ -312,7 +312,14 @@ By Jin Wang
 |1199|**Perfect Number**|Easy|Java, Javascript||
 |1200|**Relative Ranks**|Easy|Java, Javascript||
 |1203|**Find Mode in Binary Search Tree**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
+|1204|**Keyboard Row**|Easy|Java, Javascript||
+|1206|**Next Greater Element I**|Easy|Java, Javascript||
+|1209|**Construct the Rectangle**|Easy|Java, Javascript||
+|1214|**License Key Formatting**|Easy|Java, Javascript||
+|1216|**Largest Palindrome Product**|Easy|Java, Javascript||
+|1218|**Number Complement**|Easy|Java, Javascript||
+|1219|**1219. Heaters**|Easy|Java, Javascript||
+|1225|**Island Perimeter**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
