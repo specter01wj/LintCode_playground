@@ -265,7 +265,7 @@ By Jin Wang
 |987|**Binary Number with Alternating Bits**|Easy|Java, Javascript||
 |988|**Arranging Coins**|Easy|Java, Javascript||
 |993|**Array Partition I**|Easy|Java, Javascript|Done|
-|1138|**Can Place Flowers**|Easy|Java, Javascript||
+|1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
 |1368|**Same Number**|Easy|Java, Javascript|Done|
