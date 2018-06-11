@@ -265,6 +265,18 @@ By Jin Wang
 |987|**Binary Number with Alternating Bits**|Easy|Java, Javascript||
 |988|**Arranging Coins**|Easy|Java, Javascript||
 |993|**Array Partition I**|Easy|Java, Javascript|Done|
+
+|1005|**Largest Triangle Area**|Easy|Java, Javascript||
+|1006|**Subdomain Visit Count**|Easy|Java, Javascript||
+|1011|**Number of Lines To Write String**|Easy|Java, Javascript||
+|1013|**Unique Morse Code Words**|Easy|Java, Javascript||
+|1017|**Similar RGB Color**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
+
 |1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
