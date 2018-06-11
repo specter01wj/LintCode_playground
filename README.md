@@ -322,15 +322,19 @@ By Jin Wang
 |1225|**Island Perimeter**|Easy|Java, Javascript||
 |1227|**Repeated Substring Pattern**|Easy|Java, Javascript||
 |1228|**Poor Pigs**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
-
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
-
-|977|**Base 7**|Easy|Java, Javascript||
+|1231|**Minimum Moves to Equal Array Elements**|Easy|Java, Javascript||
+|1236|**Find All Numbers Disappeared in an Array**|Easy|Java, Javascript||
+|1237|**Number of Boomerangs**|Easy|Java, Javascript||
+|1243|**Number of Segments in a String**|Easy|Java, Javascript||
+|1253|**Convert a Number to Hexadecimal**|Easy|Java, Javascript||
+|1254|**Sum of Left Leaves**|Easy|Java, Javascript||
+|1256|**Nth Digit**|Easy|Java, Javascript||
 
 |1368|**Same Number**|Easy|Java, Javascript|Done|
+
+|977|**Base 7**|Easy|Java, Javascript||
+
 |1380|**Log Sorting**|Easy|Java, Javascript|Done|
 |1385|**Lucky Number Eight**|Easy|Java, Javascript|Done|
 |1398|**K Decimal Addition**|Easy|Java, Javascript|Done|
