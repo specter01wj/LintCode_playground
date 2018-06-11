@@ -337,6 +337,13 @@ By Jin Wang
 |1294|**Power of Three**|Easy|Java, Javascript||
 |1300|**Nim Game**|Easy|Java, Javascript||
 |1314|**Power of Two**|Easy|Java, Javascript||
+|1319|**Contains Duplicate II**|Easy|Java, Javascript||
+|1320|**Contains Duplicate**|Easy|Java, Javascript||
+|1324|**Count Primes**|Easy|Java, Javascript||
+|1332|**Number of 1 Bits**|Easy|Java, Javascript||
+|1334|**Rotate Array**|Easy|Java, Javascript||
+|1347|**Factorial Trailing Zeroes**|Easy|Java, Javascript||
+|1348|**Excel Sheet Column Number**|Easy|Java, Javascript||
 
 |1368|**Same Number**|Easy|Java, Javascript|Done|
 
