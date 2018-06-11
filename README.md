@@ -265,7 +265,6 @@ By Jin Wang
 |987|**Binary Number with Alternating Bits**|Easy|Java, Javascript||
 |988|**Arranging Coins**|Easy|Java, Javascript||
 |993|**Array Partition I**|Easy|Java, Javascript|Done|
-
 |1005|**Largest Triangle Area**|Easy|Java, Javascript||
 |1006|**Subdomain Visit Count**|Easy|Java, Javascript||
 |1011|**Number of Lines To Write String**|Easy|Java, Javascript||
@@ -281,14 +280,37 @@ By Jin Wang
 |1056|**Find Smallest Letter Greater Than Target**|Easy|Java, Javascript||
 |1062|**Flood Fill**|Easy|Java, Javascript||
 |1068|**Find Pivot Index**|Easy|Java, Javascript||
+|1071|**Longest Word in Dictionary**|Easy|Java, Javascript||
+|1078|**Degree of an Array**|Easy|Java, Javascript||
+|1079|**Count Binary Substrings**|Easy|Java, Javascript||
+|1080|**Max Area of Island**|Easy|Java, Javascript||
+|1085|**Longest Univalue Path**|Easy|Java, Javascript||
+|1086|**Repeated String Match**|Easy|Java, Javascript||
+|1094|**Second Minimum Node In a Binary Tree**|Easy|Java, Javascript||
+|1099|**Non-decreasing Array**|Easy|Java, Javascript||
+|1104|**Judge Route Circle**|Easy|Java, Javascript||
+|1112|**Set Mismatch**|Easy|Java, Javascript||
+|1119|**Maximum Product of Three Numbers**|Easy|Java, Javascript||
+|1126|**Merge Two Binary Trees**|Easy|Java, Javascript||
+|1137|**Construct String from Binary Tree**|Easy|Java, Javascript||
+|1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
+|1143|**Minimum Index Sum of Two Lists**|Easy|Java, Javascript||
+|1144|**Range Addition II**|Easy|Java, Javascript||
+|1148|**Longest Harmonious Subsequence**|Easy|Java, Javascript||
+|1157|**Shortest Unsorted Continuous Subarray**|Easy|Java, Javascript||
+|1163|**Distribute Candies**|Easy|Java, Javascript||
+|1165|**Subtree of Another Tree**|Easy|Java, Javascript||
+|1170|**Reshape the Matrix**|Easy|Java, Javascript||
+|1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
+
+|1173|**Reverse Words in a String III**|Easy|Java, Javascript||
+|977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 |977|**Base 7**|Easy|Java, Javascript||
 
-|1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
-|1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
 |1368|**Same Number**|Easy|Java, Javascript|Done|
 |1380|**Log Sorting**|Easy|Java, Javascript|Done|
