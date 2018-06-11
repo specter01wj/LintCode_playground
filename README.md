@@ -271,11 +271,11 @@ By Jin Wang
 |1011|**Number of Lines To Write String**|Easy|Java, Javascript||
 |1013|**Unique Morse Code Words**|Easy|Java, Javascript||
 |1017|**Similar RGB Color**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
-|977|**Base 7**|Easy|Java, Javascript||
+|1028|**Rotated Digits**|Easy|Java, Javascript||
+|1032|**Letter Case Permutation**|Easy|Java, Javascript||
+|1033|**Minimum Distance Between BST Nodes**|Easy|Java, Javascript||
+|1038|**Jewels and Stones**|Easy|Java, Javascript||
+|1042|**Toeplitz Matrix**|Easy|Java, Javascript||
 
 |1138|**Can Place Flowers**|Easy|Java, Javascript|Done|
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
