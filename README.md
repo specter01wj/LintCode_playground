@@ -221,7 +221,7 @@ By Jin Wang
 |771|**Double Factorial**|Easy|Java, Javascript|Done|
 |777|**Valid Perfect Square**|Easy|Java, Javascript||
 |784|**The Longest Common Prefix II**|Easy|Java, Javascript||
-|786|**Linked List Weighted Sum In Reverse Order**|Easy|Java, Javascript||
+|786|**Linked List Weighted Sum In Reverse Order**|Easy|Java, Javascript|Done|
 |792|**Kth Prime Number**|Easy|Java, Javascript||
 |797|**Reach a Number**|Easy|Java, Javascript|Done|
 |807|**Palindrome Number II**|Easy|Java, Javascript|Done|
