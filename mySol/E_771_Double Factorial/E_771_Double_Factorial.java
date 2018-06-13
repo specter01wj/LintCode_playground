@@ -33,7 +33,7 @@ public class E_771_Double_Factorial {
         return calc(n);
     }
     
-    long calc(int n) {
+    static long calc(int n) {
         if (n <= 1) {
             return 1;
         }
