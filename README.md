@@ -287,7 +287,7 @@ By Jin Wang
 |1085|**Longest Univalue Path**|Easy|Java, Javascript||
 |1086|**Repeated String Match**|Easy|Java, Javascript||
 |1094|**Second Minimum Node In a Binary Tree**|Easy|Java, Javascript||
-|1099|**Non-decreasing Array**|Easy|Java, Javascript||
+|1099|**Non-decreasing Array**|Easy|Java, Javascript|Done|
 |1104|**Judge Route Circle**|Easy|Java, Javascript||
 |1112|**Set Mismatch**|Easy|Java, Javascript||
 |1119|**Maximum Product of Three Numbers**|Easy|Java, Javascript||
