@@ -280,7 +280,7 @@ By Jin Wang
 |1056|**Find Smallest Letter Greater Than Target**|Easy|Java, Javascript||
 |1062|**Flood Fill**|Easy|Java, Javascript||
 |1068|**Find Pivot Index**|Easy|Java, Javascript||
-|1071|**Longest Word in Dictionary**|Easy|Java, Javascript||
+|1071|**Longest Word in Dictionary**|Easy|Java, Javascript|Done|
 |1078|**Degree of an Array**|Easy|Java, Javascript||
 |1079|**Count Binary Substrings**|Easy|Java, Javascript||
 |1080|**Max Area of Island**|Easy|Java, Javascript||
