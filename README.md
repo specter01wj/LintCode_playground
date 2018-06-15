@@ -299,7 +299,7 @@ By Jin Wang
 |1148|**Longest Harmonious Subsequence**|Easy|Java, Javascript||
 |1157|**Shortest Unsorted Continuous Subarray**|Easy|Java, Javascript||
 |1163|**Distribute Candies**|Easy|Java, Javascript||
-|1165|**Subtree of Another Tree**|Easy|Java, Javascript||
+|1165|**Subtree of Another Tree**|Easy|Java, Javascript|Done|
 |1170|**Reshape the Matrix**|Easy|Java, Javascript||
 |1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
 |1173|**Reverse Words in a String III**|Easy|Java, Javascript||
