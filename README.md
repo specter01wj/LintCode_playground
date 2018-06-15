@@ -301,7 +301,7 @@ By Jin Wang
 |1163|**Distribute Candies**|Easy|Java, Javascript||
 |1165|**Subtree of Another Tree**|Easy|Java, Javascript|Done|
 |1170|**Reshape the Matrix**|Easy|Java, Javascript||
-|1172|**Binary Tree Tilt**|Easy|Java, Javascript||
+|1172|**Binary Tree Tilt**|Easy|Java, Javascript|Done|
 |1173|**Reverse Words in a String III**|Easy|Java, Javascript||
 |1178|**Student Attendance Record I**|Easy|Java, Javascript||
 |1181|**Diameter of Binary Tree**|Easy|Java, Javascript||
