@@ -320,7 +320,7 @@ By Jin Wang
 |1218|**Number Complement**|Easy|Java, Javascript||
 |1219|**1219. Heaters**|Easy|Java, Javascript||
 |1225|**Island Perimeter**|Easy|Java, Javascript|Done|
-|1227|**Repeated Substring Pattern**|Easy|Java, Javascript||
+|1227|**Repeated Substring Pattern**|Easy|Java, Javascript|Done|
 |1228|**Poor Pigs**|Easy|Java, Javascript||
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
 |1231|**Minimum Moves to Equal Array Elements**|Easy|Java, Javascript||
