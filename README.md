@@ -323,7 +323,7 @@ By Jin Wang
 |1227|**Repeated Substring Pattern**|Easy|Java, Javascript|Done|
 |1228|**Poor Pigs**|Easy|Java, Javascript||
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
-|1231|**Minimum Moves to Equal Array Elements**|Easy|Java, Javascript||
+|1231|**Minimum Moves to Equal Array Elements**|Easy|Java, Javascript|Done|
 |1236|**Find All Numbers Disappeared in an Array**|Easy|Java, Javascript||
 |1237|**Number of Boomerangs**|Easy|Java, Javascript||
 |1243|**Number of Segments in a String**|Easy|Java, Javascript||
