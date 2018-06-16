@@ -319,7 +319,7 @@ By Jin Wang
 |1216|**Largest Palindrome Product**|Easy|Java, Javascript||
 |1218|**Number Complement**|Easy|Java, Javascript||
 |1219|**1219. Heaters**|Easy|Java, Javascript||
-|1225|**Island Perimeter**|Easy|Java, Javascript||
+|1225|**Island Perimeter**|Easy|Java, Javascript|Done|
 |1227|**Repeated Substring Pattern**|Easy|Java, Javascript||
 |1228|**Poor Pigs**|Easy|Java, Javascript||
 |1230|**Assign Cookies**|Easy|Java, Javascript|Done|
