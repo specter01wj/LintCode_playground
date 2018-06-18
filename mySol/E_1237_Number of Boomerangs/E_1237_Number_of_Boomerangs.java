@@ -20,7 +20,7 @@ public class E_1237_Number_of_Boomerangs {
 
     public static void main(String[] args) {
 
-        int[] input = {{0,0},{1,0},{2,0}};
+        int[][] input = {{0,0},{1,0},{2,0}};
         int output = numberOfBoomerangs(input);
         System.out.println("input: " + Arrays.deepToString(input) + "\noutput: " + (output));
 
@@ -30,7 +30,7 @@ public class E_1237_Number_of_Boomerangs {
      * @param points: a 2D array
      * @return: the number of boomerangs
      */
-    private int getDistance(int[] a, int[] b) {
+    private static int getDistance(int[] a, int[] b) {
         int dx = a[0] - b[0];
         int dy = a[1] - b[1];
         return dx * dx + dy * dy;
