@@ -332,7 +332,7 @@ By Jin Wang
 |1256|**Nth Digit**|Easy|Java, Javascript||
 |1266|**Find the Difference**|Easy|Java, Javascript||
 |1270|**Ransom Note**|Easy|Java, Javascript||
-|1282|**Reverse Vowels of a String**|Easy|Java, Javascript||
+|1282|**Reverse Vowels of a String**|Easy|Java, Javascript|Done|
 |1285|**Power of Four**|Easy|Java, Javascript||
 |1294|**Power of Three**|Easy|Java, Javascript||
 |1300|**Nim Game**|Easy|Java, Javascript||
