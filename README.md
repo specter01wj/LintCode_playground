@@ -351,7 +351,7 @@ By Jin Wang
 |1380|**Log Sorting**|Easy|Java, Javascript|Done|
 |1385|**Lucky Number Eight**|Easy|Java, Javascript|Done|
 |1386|**Cable Car Ride**|Easy|Java, Javascript|Done|
-|1398|**K Decimal Addition**|Easy|Java, Javascript||
+|1398|**K Decimal Addition**|Easy|Java, Javascript|Done|
 |1401|**Twitch Words**|Easy|Java, Javascript|Done|
 |1410|**Matrix Water Injection**|Easy|Java, Javascript|Done|
 |1415|**Residual Product**|Easy|Java, Javascript||
