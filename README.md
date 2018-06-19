@@ -356,7 +356,7 @@ By Jin Wang
 |1410|**Matrix Water Injection**|Easy|Java, Javascript|Done|
 |1415|**Residual Product**|Easy|Java, Javascript|Done|
 |1417|**Weighing Problem**|Easy|Java, Javascript|Done|
-|1443|**Longest AB Substring**|Easy|Java, Javascript||
+|1443|**Longest AB Substring**|Easy|Java, Javascript|Done|
 
 
 ### Medium Level
