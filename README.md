@@ -354,7 +354,7 @@ By Jin Wang
 |1398|**K Decimal Addition**|Easy|Java, Javascript|Done|
 |1401|**Twitch Words**|Easy|Java, Javascript|Done|
 |1410|**Matrix Water Injection**|Easy|Java, Javascript|Done|
-|1415|**Residual Product**|Easy|Java, Javascript||
+|1415|**Residual Product**|Easy|Java, Javascript|Done|
 |1417|**Weighing Problem**|Easy|Java, Javascript||
 |1443|**Longest AB Substring**|Easy|Java, Javascript||
 
