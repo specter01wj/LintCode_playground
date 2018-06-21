@@ -328,7 +328,7 @@ By Jin Wang
 |1237|**Number of Boomerangs**|Easy|Java, Javascript|Done|
 |1243|**Number of Segments in a String**|Easy|Java, Javascript||
 |1253|**Convert a Number to Hexadecimal**|Easy|Java, Javascript|Done|
-|1254|**Sum of Left Leaves**|Easy|Java, Javascript||
+|1254|**Sum of Left Leaves**|Easy|Java, Javascript|Done|
 |1256|**Nth Digit**|Easy|Java, Javascript||
 |1266|**Find the Difference**|Easy|Java, Javascript||
 |1270|**Ransom Note**|Easy|Java, Javascript||
