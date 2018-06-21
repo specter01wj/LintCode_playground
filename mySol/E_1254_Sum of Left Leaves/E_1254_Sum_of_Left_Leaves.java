@@ -44,9 +44,10 @@ public class E_1254_Sum_of_Left_Leaves {
         if(root == null) {
             return 0;
         }
+
         int sum = 0;
-        if(root.left != null)
-        {
+
+        if(root.left != null) {
             TreeNode left = root.left;
             if(left.left == null && left.right == null) {
                 sum += left.val;
@@ -55,11 +56,12 @@ public class E_1254_Sum_of_Left_Leaves {
                 sum += sumOfLeftLeaves(left);
             }
         }
-        if(root.right != null)
-        {
+
+        if(root.right != null) {
             TreeNode right = root.right;
             sum += sumOfLeftLeaves(right);
         }
+        
         return sum;
     }
 
