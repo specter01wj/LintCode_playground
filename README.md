@@ -345,7 +345,7 @@ By Jin Wang
 |1347|**Factorial Trailing Zeroes**|Easy|Java, Javascript||
 |1348|**Excel Sheet Column Number**|Easy|Java, Javascript||
 |1350|**Excel Sheet Column Title**|Easy|Java, Javascript||
-|1354|**Pascal's Triangle II**|Easy|Java, Javascript||
+|1354|**Pascal's Triangle II**|Easy|Java, Javascript|Done|
 |1360|**Symmetric Tree**|Easy|Java, Javascript|Done|
 |1368|**Same Number**|Easy|Java, Javascript|Done|
 |1380|**Log Sorting**|Easy|Java, Javascript|Done|
